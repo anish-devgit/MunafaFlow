@@ -1,0 +1,10 @@
+- event [next-runtime-env] read environment variables prefixed with 'NEXT_PUBLIC_' from process.env.
+- ready [next-runtime-env] wrote browser runtime environment variables to 'C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\builder/public/__ENV.js'.
+ ΓÜá i18n configuration in next.config.mjs is unsupported in App Router.
+Learn more about internationalization in App Router: https://nextjs.org/docs/app/building-your-application/routing/internationalization
+Resolving dependencies
+error: "git clone" for "@C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/node_modules/next/dist/server/lib/start-server.js" failed
+Resolved, downloaded and extracted [1]
+error: InstallFailed cloning repository for @C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/node_modules/next/dist/server/lib/start-server.js
+error: @C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/node_modules/next/dist/server/lib/start-server.js failed to resolve
+[?25h

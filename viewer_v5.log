@@ -1,0 +1,64 @@
+ΓÇó turbo 2.8.7
+ΓÇó Packages in scope: viewer
+ΓÇó Running dev in 1 packages
+ΓÇó Remote caching disabled
+@typebot.io/prisma:db:push: cache bypass, force executing a63aa23447855098
+@typebot.io/prisma:db:generate: cache bypass, force executing 22621b41b2dabe3b
+@typebot.io/prisma:db:push: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-push.ts
+@typebot.io/prisma:db:generate: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-generate.ts
+@typebot.io/env:build: cache hit, suppressing logs dcce0f05a4a4297b
+@typebot.io/prisma:db:generate: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:push: ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+@typebot.io/prisma:db:push: Γöé  Update available 7.4.0 -> 7.4.2                        Γöé
+@typebot.io/prisma:db:push: Γöé  Run the following to update                            Γöé
+@typebot.io/prisma:db:push: Γöé    npm i --save-dev prisma@latest                       Γöé
+@typebot.io/prisma:db:push: Γöé    npm i @prisma/client@latest                          Γöé
+@typebot.io/prisma:db:push: ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Datasource "db": PostgreSQL database "typebot", schema "public" at "127.0.0.1:5433"
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: The database is already in sync with the Prisma schema.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:generate: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:generate: ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+@typebot.io/prisma:db:generate: Γöé  Update available 7.4.0 -> 7.4.2                        Γöé
+@typebot.io/prisma:db:generate: Γöé  Run the following to update                            Γöé
+@typebot.io/prisma:db:generate: Γöé    npm i --save-dev prisma@latest                       Γöé
+@typebot.io/prisma:db:generate: Γöé    npm i @prisma/client@latest                          Γöé
+@typebot.io/prisma:db:generate: ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Γ£ö Generated Prisma Client (v7.4.0) to .\..\..\node_modules\@prisma\client in 548ms
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Γ£ö Generated Prisma Effect Generator to .\.effect\index.ts in 78ms
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/js:build: cache hit, suppressing logs d6674fa3f07db312
+@typebot.io/react:build: cache hit, suppressing logs 4b3a0d7dab332fe5
+viewer:dev: cache bypass, force executing 8c39059d25341214
+viewer:dev: $ dotenv -e ./.env -e ../../.env  -- next dev -p 3001
+viewer:dev: - event [next-runtime-env] read environment variables prefixed with 'NEXT_PUBLIC_' from process.env.
+viewer:dev: - ready [next-runtime-env] wrote browser runtime environment variables to 'C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\viewer/public/__ENV.js'.
+viewer:dev: - event [next-runtime-env] read environment variables prefixed with 'NEXT_PUBLIC_' from process.env.
+viewer:dev: - ready [next-runtime-env] wrote browser runtime environment variables to 'C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\viewer/public/__ENV.js'.
+viewer:dev:    Γû▓ Next.js 15.5.9
+viewer:dev:    - Local:        http://localhost:3001
+viewer:dev:    - Network:      http://192.168.217.231:3001
+viewer:dev: 
+viewer:dev:  Γ£ô Starting...
+viewer:dev:  Γùï Compiling /instrumentation ...
+viewer:dev:  Γ£ô Compiled /instrumentation in 4s (1598 modules)
+viewer:dev:  Γ£ô Ready in 14.6s
+viewer:dev:  Γùï Compiling /[[...publicId]] ...
+viewer:dev:  Γ£ô Compiled /[[...publicId]] in 7.4s (1996 modules)
+viewer:dev:  GET / 200 in 16022ms
+viewer:dev:  Γùï Compiling /_not-found ...
+viewer:dev:  Γ£ô Compiled /_not-found in 3.2s (2528 modules)
+viewer:dev:  GET /favicon.ico 404 in 3741ms

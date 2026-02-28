@@ -1,0 +1,56 @@
+ΓÇó turbo 2.8.7
+ΓÇó Packages in scope: @typebot.io/ai, @typebot.io/anthropic-block, @typebot.io/blink-block, @typebot.io/blocks-base, @typebot.io/blocks-bubbles, @typebot.io/blocks-core, @typebot.io/blocks-inputs, @typebot.io/blocks-integrations, @typebot.io/blocks-logic, @typebot.io/bot-engine, @typebot.io/cal-com-block, @typebot.io/chat-api, @typebot.io/chat-node-block, @typebot.io/chat-session, @typebot.io/conditions, @typebot.io/config, @typebot.io/credentials, @typebot.io/deepseek-block, @typebot.io/dify-ai-block, @typebot.io/elevenlabs-block, @typebot.io/emails, @typebot.io/env, @typebot.io/events, @typebot.io/file-input-block, @typebot.io/forge, @typebot.io/forge-repository, @typebot.io/gmail-block, @typebot.io/groq-block, @typebot.io/groups, @typebot.io/js, @typebot.io/legacy, @typebot.io/lib, @typebot.io/logs, @typebot.io/mistral-block, @typebot.io/nocodb-block, @typebot.io/open-router-block, @typebot.io/openai-block, @typebot.io/perplexity-block, @typebot.io/playwright, @typebot.io/posthog-block, @typebot.io/prisma, @typebot.io/qrcode-block, @typebot.io/react, @typebot.io/results, @typebot.io/rich-text, @typebot.io/runtime-session-store, @typebot.io/schemas, @typebot.io/segment-block, @typebot.io/settings, @typebot.io/theme, @typebot.io/together-ai-block, @typebot.io/tsconfig, @typebot.io/typebot, @typebot.io/ui, @typebot.io/user, @typebot.io/variables, @typebot.io/webhook-block, @typebot.io/whatsapp, @typebot.io/workspaces, @typebot.io/zendesk-block, viewer
+ΓÇó Running dev in 61 packages
+ΓÇó Remote caching disabled
+@typebot.io/prisma:db:generate: cache bypass, force executing f70612f9028036af
+@typebot.io/prisma:db:generate: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-generate.ts
+@typebot.io/prisma:db:push: cache bypass, force executing da9ffb7be15a2bea
+@typebot.io/prisma:db:push: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-push.ts
+@typebot.io/env:build: cache hit, suppressing logs dcce0f05a4a4297b
+@typebot.io/prisma:db:push: Executing for PostgreSQL schema
+@typebot.io/prisma:db:generate: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Datasource "db": PostgreSQL database "typebot", schema "public" at "127.0.0.1:5433"
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: The database is already in sync with the Prisma schema.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:generate: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Γ£ö Generated Prisma Client (v7.4.0) to .\..\..\node_modules\@prisma\client in 1.50s
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Γ£ö Generated Prisma Effect Generator to .\.effect\index.ts in 181ms
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/js:build: cache miss, executing e05a383edef28841
+@typebot.io/js:build: $ tsup
+@typebot.io/js:build: [34mCLI[39m Building entry: src/index.ts
+@typebot.io/js:build: [34mCLI[39m Using tsconfig: tsconfig.json
+@typebot.io/js:build: [34mCLI[39m tsup v8.5.0
+@typebot.io/js:build: [34mCLI[39m Using tsup config: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\js\tsup.config.ts
+@typebot.io/js:build: [34mCLI[39m Building entry: src/web.ts
+@typebot.io/js:build: [34mCLI[39m Using tsconfig: tsconfig.json
+@typebot.io/js:build: [34mCLI[39m tsup v8.5.0
+@typebot.io/js:build: [34mCLI[39m Using tsup config: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\js\tsup.config.ts
+@typebot.io/js:build: [34mCLI[39m Target: es2022
+@typebot.io/js:build: [34mESM[39m Build start
+@typebot.io/js:build: [34mCLI[39m Target: es2022
+@typebot.io/js:build: [34mESM[39m Build start
+@typebot.io/js:build: [32mESM[39m [1mdist\index.js [22m[32m1.62 KB[39m
+@typebot.io/js:build: [32mESM[39m ΓÜí∩╕Å Build success in 422ms
+@typebot.io/js:build: error: script "build" exited with code 116
+@typebot.io/js:build: ERROR: command finished with error: command (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\js) C:\Users\anish\.bun\bin\bun.exe run build exited (116)
+@typebot.io/js#build: command (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\js) C:\Users\anish\.bun\bin\bun.exe run build exited (116)
+
+ Tasks:    3 successful, 4 total
+Cached:    1 cached, 4 total
+  Time:    1m35.752s 
+Failed:    @typebot.io/js#build
+
+ ERROR  run failed: command  exited (116)

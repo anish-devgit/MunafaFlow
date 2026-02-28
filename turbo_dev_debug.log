@@ -1,0 +1,644 @@
+2026-02-26T22:29:00.355+0530 [DEBUG] turborepo_shim::run: Global turbo version: 2.8.7
+2026-02-26T22:29:00.356+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\package.json
+2026-02-26T22:29:00.366+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\package.json
+2026-02-26T22:29:00.367+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\package.json
+2026-02-26T22:29:00.367+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\package.json
+2026-02-26T22:29:00.367+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\package.json
+2026-02-26T22:29:00.367+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\package.json
+2026-02-26T22:29:00.367+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\package.json
+2026-02-26T22:29:00.367+0530 [DEBUG] turborepo_shim::run: Repository Root: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io
+2026-02-26T22:29:00.367+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\turbo-windows-64\package.json
+2026-02-26T22:29:00.368+0530 [DEBUG] turborepo_shim::local_turbo_state: Local turbo path: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\turbo-windows-64\bin\turbo.exe
+2026-02-26T22:29:00.368+0530 [DEBUG] turborepo_shim::local_turbo_state: Local turbo version: 2.8.7
+2026-02-26T22:29:00.372+0530 [DEBUG] turborepo_shim::run: Currently running turbo is local turbo.
+2026-02-26T22:29:00.410+0530 [TRACE] turborepo_telemetry::config: Telemetry config path: C:\Users\anish\AppData\Roaming\turborepo\telemetry.json
+ΓÇó turbo 2.8.7
+2026-02-26T22:29:00.574+0530 [DEBUG] turborepo_config: Worktree detection: current=C:/Users/anish/OneDrive/Desktop/New folder/typebot.io, main=C:\Users\anish\OneDrive\Desktop\New folder\typebot.io, is_linked=false
+2026-02-26T22:29:00.574+0530 [DEBUG] turborepo_config: Using local cache (main worktree): .turbo\cache
+2026-02-26T22:29:00.574+0530 [DEBUG] turborepo_lib::opts: Opts::new cache_dir_result: path=.turbo\cache, is_shared_worktree=false
+2026-02-26T22:29:00.575+0530 [DEBUG] turborepo_lib::opts: CacheOpts created with cache_dir=.turbo\cache
+2026-02-26T22:29:00.629+0530 [DEBUG] turborepo_process: spawning children with pty: false
+2026-02-26T22:29:00.629+0530 [TRACE] turborepo_lib::run::builder: performing run on "windows-64"
+2026-02-26T22:29:00.629+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\package.json
+2026-02-26T22:29:00.630+0530 [TRACE] turborepo_telemetry::config: Telemetry config path: C:\Users\anish\AppData\Roaming\turborepo\telemetry.json
+2026-02-26T22:29:00.631+0530 [DEBUG] turborepo_lib::run::builder: skipping turbod since we appear to be in a non-interactive context
+2026-02-26T22:29:00.631+0530 [DEBUG] turborepo_repository::discovery: discovering packages using caching strategy
+2026-02-26T22:29:00.631+0530 [TRACE] turborepo_telemetry: Flushed telemetry event queue (num_events=10)
+2026-02-26T22:29:00.631+0530 [DEBUG] turborepo_repository::discovery: discovering packages using primary strategy
+2026-02-26T22:29:00.631+0530 [DEBUG] turborepo_repository::discovery: discovering packages using local strategy
+2026-02-26T22:29:00.639+0530 [DEBUG] globwalk: processing includes: ["packages/*/package.json", "packages/deprecated/*/package.json", "packages/embeds/*/package.json", "packages/forge/*/package.json", "packages/forge/blocks/*/package.json", "packages/blocks/*/package.json", "apps/*/package.json"]
+2026-02-26T22:29:00.639+0530 [DEBUG] globwalk: processing excludes: ["**/node_modules", "**/.git"]
+2026-02-26T22:29:00.639+0530 [DEBUG] globwalk: processed includes: ["C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/*/package.json", "C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/deprecated/*/package.json", "C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/*/package.json", "C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/forge/*/package.json", "C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/forge/blocks/*/package.json", "C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/blocks/*/package.json", "C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/apps/*/package.json"]
+2026-02-26T22:29:00.639+0530 [DEBUG] globwalk: processed excludes: ["C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/**/node_modules/**", "C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/**/node_modules", "C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/**/.git/**", "C\\:/Users/anish/OneDrive/Desktop/New folder/typebot.io/**/.git"]
+2026-02-26T22:29:00.681+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\variables\package.json
+2026-02-26T22:29:00.682+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\theme\package.json
+2026-02-26T22:29:00.682+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\events\package.json
+2026-02-26T22:29:00.683+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\radar\package.json
+2026-02-26T22:29:00.683+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\elevenlabs\package.json
+2026-02-26T22:29:00.683+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\tsconfig\package.json
+2026-02-26T22:29:00.684+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\calCom\package.json
+2026-02-26T22:29:00.685+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\emails\package.json
+2026-02-26T22:29:00.685+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\openai\package.json
+2026-02-26T22:29:00.687+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\scripts\package.json
+2026-02-26T22:29:00.688+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\groq\package.json
+2026-02-26T22:29:00.689+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\blocks\fileInput\package.json
+2026-02-26T22:29:00.689+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\user\package.json
+2026-02-26T22:29:00.690+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\togetherAi\package.json
+2026-02-26T22:29:00.691+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\credentials\package.json
+2026-02-26T22:29:00.692+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\repository\package.json
+2026-02-26T22:29:00.693+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\blocks\core\package.json
+2026-02-26T22:29:00.694+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\blocks\integrations\package.json
+2026-02-26T22:29:00.695+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\openRouter\package.json
+2026-02-26T22:29:00.696+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\package.json
+2026-02-26T22:29:00.697+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\bot-engine\package.json
+2026-02-26T22:29:00.698+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\chat-api\package.json
+2026-02-26T22:29:00.698+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\anthropic\package.json
+2026-02-26T22:29:00.699+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\difyAi\package.json
+2026-02-26T22:29:00.700+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\rich-text\package.json
+2026-02-26T22:29:00.700+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\prisma\package.json
+2026-02-26T22:29:00.701+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\settings\package.json
+2026-02-26T22:29:00.701+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\conditions\package.json
+2026-02-26T22:29:00.702+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\telemetry\package.json
+2026-02-26T22:29:00.705+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\blocks\inputs\package.json
+2026-02-26T22:29:00.705+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\docs\package.json
+2026-02-26T22:29:00.707+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\gmail\package.json
+2026-02-26T22:29:00.708+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\schemas\package.json
+2026-02-26T22:29:00.708+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\wordpress\package.json
+2026-02-26T22:29:00.709+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\lib\package.json
+2026-02-26T22:29:00.709+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\nocodb\package.json
+2026-02-26T22:29:00.710+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\blocks\logic\package.json
+2026-02-26T22:29:00.710+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\builder\package.json
+2026-02-26T22:29:00.712+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\auth\package.json
+2026-02-26T22:29:00.712+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\chat-session\package.json
+2026-02-26T22:29:00.713+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\ui\package.json
+2026-02-26T22:29:00.713+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\qrcode\package.json
+2026-02-26T22:29:00.714+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\blink\package.json
+2026-02-26T22:29:00.714+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\ai\package.json
+2026-02-26T22:29:00.715+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\logs\package.json
+2026-02-26T22:29:00.715+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\templates\package.json
+2026-02-26T22:29:00.715+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\config\package.json
+2026-02-26T22:29:00.716+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\blocks\bubbles\package.json
+2026-02-26T22:29:00.716+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\perplexity\package.json
+2026-02-26T22:29:00.716+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\groups\package.json
+2026-02-26T22:29:00.717+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\env\package.json
+2026-02-26T22:29:00.717+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\whatsapp\package.json
+2026-02-26T22:29:00.717+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\workflows\package.json
+2026-02-26T22:29:00.718+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\typebot\package.json
+2026-02-26T22:29:00.720+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\chatNode\package.json
+2026-02-26T22:29:00.722+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\posthog\package.json
+2026-02-26T22:29:00.724+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\blocks\base\package.json
+2026-02-26T22:29:00.725+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\billing\package.json
+2026-02-26T22:29:00.725+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\partykit\package.json
+2026-02-26T22:29:00.726+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\js\package.json
+2026-02-26T22:29:00.726+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\blocks\webhook\package.json
+2026-02-26T22:29:00.726+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\deepseek\package.json
+2026-02-26T22:29:00.727+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\deprecated\legacy\package.json
+2026-02-26T22:29:00.727+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\zendesk\package.json
+2026-02-26T22:29:00.727+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\playwright\package.json
+2026-02-26T22:29:00.728+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\results\package.json
+2026-02-26T22:29:00.728+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\workspaces\package.json
+2026-02-26T22:29:00.729+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\mistral\package.json
+2026-02-26T22:29:00.729+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\stories\package.json
+2026-02-26T22:29:00.729+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\viewer\package.json
+2026-02-26T22:29:00.730+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\cli\package.json
+2026-02-26T22:29:00.730+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\react\package.json
+2026-02-26T22:29:00.730+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\runtime-session-store\package.json
+2026-02-26T22:29:00.731+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\blocks\segment\package.json
+2026-02-26T22:29:00.731+0530 [TRACE] turborepo_repository::package_json: loading package.json from C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\forge\core\package.json
+2026-02-26T22:29:00.732+0530 [DEBUG] turborepo_repository::discovery: discovering packages using caching strategy
+2026-02-26T22:29:00.733+0530 [DEBUG] turborepo_repository::discovery: discovering packages using caching strategy
+2026-02-26T22:29:00.860+0530 [TRACE] log: signal: Want
+2026-02-26T22:29:00.861+0530 [TRACE] log: signal found waiting giver, notifying
+2026-02-26T22:29:00.861+0530 [TRACE] log: poll_want: taker wants!
+2026-02-26T22:29:01.089+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.8) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.089+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.0.0) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.0.1 for uuid (spec: ^9.0.1) in nested entry @giphy/js-util/uuid
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.5.0 for @opentelemetry/sdk-metrics (spec: 2.5.0) in nested entry @opentelemetry/otlp-transformer/@opentelemetry/sdk-metrics
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.1.3 for lilconfig (spec: ^3.1.1) in nested entry @react-email/preview-server/tailwindcss/postcss-load-config/lilconfig
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.0.36 for @ai-sdk/ui-utils (spec: 0.0.36) in nested entry @ai-sdk/solid/@ai-sdk/ui-utils
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.0.0) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.15 for @ai-sdk/provider-utils (spec: 1.0.15) in nested entry @ai-sdk/solid/@ai-sdk/provider-utils
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 12.23.25 for framer-motion (spec: ^12.23.25) in nested entry motion/framer-motion
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.0.21 for @ai-sdk/provider (spec: 0.0.21) in nested entry @ai-sdk/solid/@ai-sdk/provider-utils/@ai-sdk/provider
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.0.0) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: 3.3.6) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.0.21 for @ai-sdk/provider (spec: 0.0.21) in nested entry @ai-sdk/solid/@ai-sdk/provider-utils/@ai-sdk/provider
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.24.1) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: 3.3.6) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.2.5 for fast-xml-parser (spec: 5.2.5) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@aws-sdk/xml-builder/fast-xml-parser
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.1.1 for strnum (spec: ^2.1.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@aws-sdk/xml-builder/fast-xml-parser/strnum
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.21.5 for esbuild (spec: 0.21.5) in nested entry partykit/esbuild
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.6.0 for chalk (spec: ^5.3.0) in nested entry @mintlify/cli/chalk
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.0.0) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.0.1 for uuid (spec: ^9.0.1) in nested entry @giphy/js-util/uuid
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.93.8 for @effect/platform (spec: ^0.93.0) in nested entry @effect/cli/@effect/platform
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.15 for @ai-sdk/provider-utils (spec: 1.0.15) in nested entry @ai-sdk/solid/@ai-sdk/provider-utils
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.0.36 for @ai-sdk/ui-utils (spec: 0.0.36) in nested entry @ai-sdk/solid/@ai-sdk/ui-utils
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.15 for @ai-sdk/provider-utils (spec: 1.0.15) in nested entry @ai-sdk/solid/@ai-sdk/provider-utils
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.0.36 for @ai-sdk/ui-utils (spec: 0.0.36) in nested entry @ai-sdk/solid/@ai-sdk/ui-utils
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.4 for @smithy/middleware-endpoint (spec: ^4.4.3) in nested entry @aws-sdk/client-s3/@smithy/middleware-endpoint
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for esbuild (spec: ~0.27.0) in nested entry tsx/esbuild
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/property-provider (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/property-provider
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.8) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.091+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.0.0) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.2 for @smithy/shared-ini-file-loader (spec: ^4.4.2) in nested entry @aws-sdk/client-s3/@aws-sdk/credential-provider-node/@smithy/shared-ini-file-loader
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.8) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.0.0) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.0.0) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.8) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.3.1 for pkg-types (spec: ^1.3.1) in nested entry mlly/pkg-types
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.0.0) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/url-parser (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/url-parser
+2026-02-26T22:29:01.090+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.1.1 for commander (spec: ^4.0.0) in nested entry sucrase/commander
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.84.0 for @effect/platform-bun (spec: ^0.84.0) in nested entry effect-solutions/@effect/platform-bun
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/querystring-parser (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/url-parser/@smithy/querystring-parser
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.0.1 for uuid (spec: ^9.0.1) in nested entry @giphy/js-util/uuid
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.8) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.8 for @smithy/middleware-serde (spec: ^4.2.8) in nested entry @aws-sdk/client-s3/@smithy/middleware-serde
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.0.0 for mdast-util-to-string (spec: ^4.0.0) in nested entry mdast-util-from-markdown/mdast-util-to-string
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.24.1) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.0.3 for is-reference (spec: ^3.0.3) in nested entry periscopic/is-reference
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.0 for @smithy/util-utf8 (spec: ^2.0.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.0.0) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.15 for @ai-sdk/provider-utils (spec: 1.0.15) in nested entry @ai-sdk/solid/@ai-sdk/provider-utils
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.2.0 for @smithy/util-buffer-from (spec: ^2.2.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8/@smithy/util-buffer-from
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.15 for @ai-sdk/provider-utils (spec: 1.0.15) in nested entry @ai-sdk/solid/@ai-sdk/provider-utils
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/linux-loong64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/linux-loong64
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.2.0 for @smithy/is-array-buffer (spec: ^2.2.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8/@smithy/util-buffer-from/@smithy/is-array-buffer
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.0.36 for @ai-sdk/ui-utils (spec: 0.0.36) in nested entry @ai-sdk/solid/@ai-sdk/ui-utils
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-middleware (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-middleware
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 10.5.0 for glob (spec: ^10.3.10) in nested entry @sentry/bundler-plugin-core/glob
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.2 for @smithy/shared-ini-file-loader (spec: ^4.4.2) in nested entry @aws-sdk/client-s3/@aws-sdk/credential-provider-node/@smithy/shared-ini-file-loader
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.1.8 for confbox (spec: ^0.1.8) in nested entry mlly/pkg-types/confbox
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.20.3 for @smithy/core (spec: ^3.20.3) in nested entry @aws-sdk/client-s3/@smithy/core
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.0 for @smithy/util-utf8 (spec: ^2.0.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 11.1.0 for uuid (spec: ^11.0.3) in nested entry @effect/experimental/uuid
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.54.0 for @effect/platform-node-shared (spec: ^0.54.0) in nested entry effect-solutions/@effect/platform-bun/@effect/platform-node-shared
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.3) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.93.8 for @effect/platform (spec: ^0.93.3) in nested entry @effect/cli/@effect/platform
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-middleware (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-middleware
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.8 for @smithy/middleware-serde (spec: ^4.2.8) in nested entry @aws-sdk/client-s3/@smithy/middleware-serde
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-buffer-from (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/hash-node/@smithy/util-buffer-from
+2026-02-26T22:29:01.093+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/is-array-buffer (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/signature-v4/@smithy/is-array-buffer
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/linux-ppc64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/linux-ppc64
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.5.8 for @smithy/util-stream (spec: ^4.5.8) in nested entry @aws-sdk/client-s3/@smithy/util-stream
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.0.0 for mdast-util-to-string (spec: ^4.0.0) in nested entry mdast-util-from-markdown/mdast-util-to-string
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.8 for @smithy/fetch-http-handler (spec: ^5.3.8) in nested entry @aws-sdk/client-s3/@smithy/fetch-http-handler
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.1 for picomatch (spec: ^2.3.1) in nested entry @mintlify/previewing/chokidar/readdirp/picomatch
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/helper-validator-identifier (spec: ^7.28.5) in nested entry @babel/core/@babel/types/@babel/helper-validator-identifier
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.0 for @smithy/util-base64 (spec: ^4.3.0) in nested entry @aws-sdk/client-s3/@smithy/util-base64
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.7.1 for type-fest (spec: ^0.7.1) in nested entry stacktrace-parser/type-fest
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.1.3 for lilconfig (spec: ^3.1.1) in nested entry @react-email/preview-server/tailwindcss/postcss-load-config/lilconfig
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.3.8 for ini (spec: ~1.3.0) in nested entry rc/ini
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-buffer-from (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/hash-node/@smithy/util-buffer-from
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.0.5 for minimatch (spec: ^9.0.4) in nested entry @sentry/bundler-plugin-core/glob/minimatch
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.3) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.11) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.3 for detect-libc (spec: ^1.0.3) in nested entry @parcel/watcher/detect-libc
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/querystring-builder (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/fetch-http-handler/@smithy/querystring-builder
+2026-02-26T22:29:01.094+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-uri-escape (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/signature-v4/@smithy/util-uri-escape
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/linux-s390x (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/linux-s390x
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.7.1 for buffer (spec: ^5.5.0) in nested entry bl/buffer
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.11) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.092+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.21.5 for @esbuild/netbsd-x64 (spec: 0.21.5) in nested entry partykit/esbuild/@esbuild/netbsd-x64
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.11.1 for path-scurry (spec: ^1.11.1) in nested entry @sentry/bundler-plugin-core/glob/path-scurry
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.1.0 for p-limit (spec: ^3.0.2) in nested entry p-locate/p-limit
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.0 for @smithy/util-base64 (spec: ^4.3.0) in nested entry @aws-sdk/client-s3/@smithy/util-base64
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-hex-encoding (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/signature-v4/@smithy/util-hex-encoding
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.1.1 for commander (spec: ^4.0.0) in nested entry sucrase/commander
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-buffer-from (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/hash-node/@smithy/util-buffer-from
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.7 for @smithy/node-http-handler (spec: ^4.4.7) in nested entry @aws-sdk/client-s3/@smithy/node-http-handler
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.0.1 for log-symbols (spec: ^7.0.0) in nested entry react-email/log-symbols
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/querystring-builder (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/fetch-http-handler/@smithy/querystring-builder
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/abort-controller (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/node-http-handler/@smithy/abort-controller
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.2.1 for safe-buffer (spec: ~5.2.0) in nested entry content-disposition/safe-buffer
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 11.1.0 for uuid (spec: ^11.0.3) in nested entry @effect/experimental/uuid
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.0.49 for @ai-sdk/react (spec: 0.0.49) in nested entry @typebot.io/legacy/ai/@ai-sdk/react
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.0 for @smithy/util-base64 (spec: ^4.3.0) in nested entry @aws-sdk/client-s3/@smithy/util-base64
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.15 for @ai-sdk/provider-utils (spec: 1.0.15) in nested entry @ai-sdk/solid/@ai-sdk/provider-utils
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-body-length-browser (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-body-length-browser
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.3.1 for semver (spec: ^6.3.1) in nested entry @babel/core/semver
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 10.5.0 for glob (spec: ^10.3.10) in nested entry @sentry/bundler-plugin-core/glob
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.93.8 for @effect/platform (spec: ^0.93.6) in nested entry @effect/cli/@effect/platform
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/linux-arm (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/linux-arm
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.0.36 for @ai-sdk/ui-utils (spec: 0.0.36) in nested entry @ai-sdk/solid/@ai-sdk/ui-utils
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.1.0 for yocto-queue (spec: ^0.1.0) in nested entry p-locate/p-limit/yocto-queue
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.21.5 for @esbuild/win32-ia32 (spec: 0.21.5) in nested entry partykit/esbuild/@esbuild/win32-ia32
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.0.21 for @ai-sdk/provider (spec: 0.0.21) in nested entry @ai-sdk/solid/@ai-sdk/provider-utils/@ai-sdk/provider
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/querystring-builder (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/fetch-http-handler/@smithy/querystring-builder
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.57.11 for @effect/experimental (spec: ^0.57.9) in nested entry @effect/sql/@effect/experimental
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.10.5 for @smithy/smithy-client (spec: ^4.10.4) in nested entry @aws-sdk/client-s3/@smithy/smithy-client
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.4 for @smithy/middleware-endpoint (spec: ^4.4.4) in nested entry @aws-sdk/client-s3/@smithy/middleware-endpoint
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.1.0 for is-unicode-supported (spec: ^2.0.0) in nested entry react-email/log-symbols/is-unicode-supported
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 11.1.0 for uuid (spec: ^11.0.3) in nested entry @effect/experimental/uuid
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.6.0 for chokidar (spec: ^3.5.3) in nested entry @mintlify/previewing/chokidar
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.20.3 for @smithy/core (spec: ^3.20.3) in nested entry @aws-sdk/client-s3/@smithy/core
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.208.0 for @opentelemetry/api-logs (spec: 0.208.0) in nested entry @opentelemetry/instrumentation/@opentelemetry/api-logs
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.11.1 for path-scurry (spec: ^1.11.1) in nested entry @sentry/bundler-plugin-core/glob/path-scurry
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.93.8 for @effect/platform (spec: ^0.93.6) in nested entry @effect/cli/@effect/platform
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.11) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.27.2) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.0.1 for event-target-shim (spec: ^5.0.0) in nested entry abort-controller/event-target-shim
+2026-02-26T22:29:01.096+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/middleware-stack (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/middleware-stack
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.1 for picomatch (spec: ^2.0.4) in nested entry @mintlify/previewing/chokidar/readdirp/picomatch
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.5.8 for @smithy/util-stream (spec: ^4.5.8) in nested entry @aws-sdk/client-s3/@smithy/util-stream
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/darwin-x64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/darwin-x64
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/signature-v4-multi-region (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/signature-v4-multi-region
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/middleware-sdk-s3 (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/middleware-sdk-s3
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 10.4.3 for lru-cache (spec: ^10.2.0) in nested entry @sentry/bundler-plugin-core/glob/path-scurry/lru-cache
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.20.3 for @smithy/core (spec: ^3.20.2) in nested entry @aws-sdk/client-s3/@smithy/core
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.10.5 for @smithy/smithy-client (spec: ^4.10.4) in nested entry @aws-sdk/client-s3/@smithy/smithy-client
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.6.0 for readdirp (spec: ~3.6.0) in nested entry @mintlify/previewing/chokidar/readdirp
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-config-provider (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@aws-sdk/middleware-sdk-s3/@smithy/util-config-provider
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 11.0.3 for glob (spec: ^11.0.0) in nested entry react-email/glob
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.095+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 10.4.3 for lru-cache (spec: ^10.2.0) in nested entry @sentry/bundler-plugin-core/glob/path-scurry/lru-cache
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.0.5 for minimatch (spec: ^9.0.0) in nested entry @sentry/bundler-plugin-core/glob/minimatch
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.21.5 for @esbuild/freebsd-arm64 (spec: 0.21.5) in nested entry partykit/esbuild/@esbuild/freebsd-arm64
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/signature-v4 (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/signature-v4
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.1.35 for mime-types (spec: ^2.1.12) in nested entry accepts/mime-types
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.1 for picomatch (spec: ^2.2.1) in nested entry @mintlify/previewing/chokidar/readdirp/picomatch
+2026-02-26T22:29:01.097+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-middleware (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-middleware
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.2 for string-width (spec: ^5.1.2) in nested entry @isaacs/cliui/string-width
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-hex-encoding (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/signature-v4/@smithy/util-hex-encoding
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-uri-escape (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/signature-v4/@smithy/util-uri-escape
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.0.5 for minimatch (spec: ^9.0.4) in nested entry @sentry/bundler-plugin-core/glob/minimatch
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/is-array-buffer (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/signature-v4/@smithy/is-array-buffer
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.5.8 for @smithy/util-stream (spec: ^4.5.8) in nested entry @aws-sdk/client-s3/@smithy/util-stream
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.966.0 for @aws-sdk/util-arn-parser (spec: 3.966.0) in nested entry @aws-sdk/client-s3/@aws-sdk/middleware-sdk-s3/@aws-sdk/util-arn-parser
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/win32-ia32 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/win32-ia32
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.2.2 for emoji-regex (spec: ^9.2.2) in nested entry @isaacs/cliui/string-width/emoji-regex
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.4.3 for jackspeak (spec: ^3.1.2) in nested entry @sentry/bundler-plugin-core/glob/jackspeak
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-middleware (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-middleware
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.2 for glob-parent (spec: ~5.1.2) in nested entry @mintlify/previewing/chokidar/glob-parent
+2026-02-26T22:29:01.128+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/core (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.20.3 for @smithy/core (spec: ^3.20.2) in nested entry @aws-sdk/client-s3/@smithy/core
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/helper-validator-identifier (spec: ^7.28.5) in nested entry @babel/core/@babel/types/@babel/helper-validator-identifier
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.4.3 for jackspeak (spec: ^3.1.2) in nested entry @sentry/bundler-plugin-core/glob/jackspeak
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 8.1.0 for wrap-ansi (spec: ^8.1.0) in nested entry @isaacs/cliui/wrap-ansi
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.27.2) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.099+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.0.0 for whatwg-url (spec: ^5.0.0) in nested entry node-fetch/whatwg-url
+2026-02-26T22:29:01.099+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/linux-x64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/linux-x64
+2026-02-26T22:29:01.099+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.2.0 for pg-types (spec: ^2.2.0) in nested entry @types/pg-pool/@types/pg/pg-types
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.2.1 for ansi-styles (spec: ^6.1.0) in nested entry @isaacs/cliui/wrap-ansi/ansi-styles
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 8.1.0 for wrap-ansi (spec: ^8.1.0) in nested entry @isaacs/cliui/wrap-ansi
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.0 for @smithy/util-base64 (spec: ^4.3.0) in nested entry @aws-sdk/client-s3/@smithy/util-base64
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.2 for string-width (spec: ^5.0.1) in nested entry @isaacs/cliui/string-width
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.2 for string-width (spec: ^5.0.1) in nested entry @isaacs/cliui/string-width
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-middleware (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-middleware
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.2.2 for emoji-regex (spec: ^9.2.2) in nested entry @isaacs/cliui/string-width/emoji-regex
+2026-02-26T22:29:01.098+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.21.5 for @esbuild/linux-loong64 (spec: 0.21.5) in nested entry partykit/esbuild/@esbuild/linux-loong64
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.7 for postgres-date (spec: ~1.0.4) in nested entry @types/pg-pool/@types/pg/pg-types/postgres-date
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/xml-builder (spec: 3.965.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@aws-sdk/xml-builder
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.2.5 for fast-xml-parser (spec: 5.2.5) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@aws-sdk/xml-builder/fast-xml-parser
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.1.1 for strnum (spec: ^2.1.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@aws-sdk/xml-builder/fast-xml-parser/strnum
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/signature-v4 (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/signature-v4
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/android-x64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/android-x64
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.2.0 for ansi-regex (spec: ^6.0.1) in nested entry @isaacs/cliui/strip-ansi/ansi-regex
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.0.3 for tr46 (spec: ~0.0.3) in nested entry node-fetch/whatwg-url/tr46
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/property-provider (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/property-provider
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.10.5 for @smithy/smithy-client (spec: ^4.10.4) in nested entry @aws-sdk/client-s3/@smithy/smithy-client
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/signature-v4 (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/signature-v4
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.0 for postgres-bytea (spec: ~1.0.0) in nested entry @types/pg-pool/@types/pg/pg-types/postgres-bytea
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.10.5 for @smithy/smithy-client (spec: ^4.10.4) in nested entry @aws-sdk/client-s3/@smithy/smithy-client
+2026-02-26T22:29:01.099+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.6.1 for jiti (spec: ^2.6.1) in nested entry @tailwindcss/node/jiti
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/core (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.2.0 for ansi-regex (spec: ^6.0.1) in nested entry @isaacs/cliui/strip-ansi/ansi-regex
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.0 for @smithy/util-utf8 (spec: ^2.0.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.2.1 for ansi-styles (spec: ^6.1.0) in nested entry @isaacs/cliui/wrap-ansi/ansi-styles
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.2.0 for @smithy/util-buffer-from (spec: ^2.2.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8/@smithy/util-buffer-from
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.2.0 for @smithy/is-array-buffer (spec: ^2.2.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8/@smithy/util-buffer-from/@smithy/is-array-buffer
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.3) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.129+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/helper-validator-identifier (spec: ^7.28.5) in nested entry @babel/core/@babel/types/@babel/helper-validator-identifier
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 8.1.0 for wrap-ansi (spec: ^8.1.0) in nested entry @isaacs/cliui/wrap-ansi
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.4) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.21.5 for @esbuild/linux-x64 (spec: 0.21.5) in nested entry partykit/esbuild/@esbuild/linux-x64
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.1 for lru-cache (spec: ^5.1.1) in nested entry @babel/helper-compilation-targets/lru-cache
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.2 for string-width (spec: ^5.1.2) in nested entry @isaacs/cliui/string-width
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.0.1 for webidl-conversions (spec: ^3.0.0) in nested entry node-fetch/whatwg-url/webidl-conversions
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/darwin-arm64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/darwin-arm64
+2026-02-26T22:29:01.130+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.0 for @smithy/util-utf8 (spec: ^2.0.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.30.21 for magic-string (spec: ^0.30.19) in nested entry @tailwindcss/node/magic-string
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.133+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.2.0 for ansi-regex (spec: ^6.0.1) in nested entry @isaacs/cliui/strip-ansi/ansi-regex
+2026-02-26T22:29:01.133+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.2.1 for ansi-styles (spec: ^6.1.0) in nested entry @isaacs/cliui/wrap-ansi/ansi-styles
+2026-02-26T22:29:01.133+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 18.19.123 for @types/node (spec: ^18.11.18) in nested entry @typebot.io/legacy/openai/@types/node
+2026-02-26T22:29:01.133+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.2.2 for emoji-regex (spec: ^9.2.2) in nested entry @isaacs/cliui/string-width/emoji-regex
+2026-02-26T22:29:01.131+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.2.0 for postgres-interval (spec: ^1.1.0) in nested entry @types/pg-pool/@types/pg/pg-types/postgres-interval
+2026-02-26T22:29:01.133+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.21.5 for @esbuild/aix-ppc64 (spec: 0.21.5) in nested entry partykit/esbuild/@esbuild/aix-ppc64
+2026-02-26T22:29:01.133+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.2 for string-width (spec: ^5.0.1) in nested entry @isaacs/cliui/string-width
+2026-02-26T22:29:01.133+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.3) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.133+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.26.5 for undici-types (spec: ~5.26.4) in nested entry @typebot.io/legacy/openai/@types/node/undici-types
+2026-02-26T22:29:01.134+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.2 for string-width (spec: ^5.1.2) in nested entry @isaacs/cliui/string-width
+2026-02-26T22:29:01.134+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/linux-riscv64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/linux-riscv64
+2026-02-26T22:29:01.134+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.3.1 for semver (spec: ^6.3.1) in nested entry @babel/core/semver
+2026-02-26T22:29:01.134+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.1.1 for commander (spec: ^4.0.0) in nested entry sucrase/commander
+2026-02-26T22:29:01.134+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.3.1 for semver (spec: ^6.3.1) in nested entry @babel/core/semver
+2026-02-26T22:29:01.134+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.134+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.1 for lru-cache (spec: ^5.1.1) in nested entry @babel/helper-compilation-targets/lru-cache
+2026-02-26T22:29:01.134+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.1.35 for mime-types (spec: ~2.1.34) in nested entry accepts/mime-types
+2026-02-26T22:29:01.134+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 10.5.0 for glob (spec: ^10.3.10) in nested entry @sentry/bundler-plugin-core/glob
+2026-02-26T22:29:01.134+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.21.5 for @esbuild/linux-s390x (spec: 0.21.5) in nested entry partykit/esbuild/@esbuild/linux-s390x
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/traverse (spec: ^7.28.3) in nested entry @babel/core/@babel/traverse
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.0.1 for uuid (spec: ^9.0.1) in nested entry @giphy/js-util/uuid
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/netbsd-x64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/netbsd-x64
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for debug (spec: ~4.3.2) in nested entry engine.io/debug
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.0.0 for postgres-array (spec: ~2.0.0) in nested entry @types/pg-pool/@types/pg/pg-types/postgres-array
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.2.5 for fast-xml-parser (spec: 5.2.5) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@aws-sdk/xml-builder/fast-xml-parser
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.1.1 for strnum (spec: ^2.1.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@aws-sdk/xml-builder/fast-xml-parser/strnum
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.3.1 for pkg-types (spec: ^1.3.1) in nested entry mlly/pkg-types
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.5) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.11.1 for path-scurry (spec: ^1.11.1) in nested entry @sentry/bundler-plugin-core/glob/path-scurry
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/middleware-sdk-s3 (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/middleware-sdk-s3
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.27.2) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/generator (spec: ^7.28.5) in nested entry @babel/core/@babel/generator
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.7 for @smithy/node-http-handler (spec: ^4.4.7) in nested entry @aws-sdk/client-s3/@smithy/node-http-handler
+2026-02-26T22:29:01.135+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.101+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.93.8 for @effect/platform (spec: ^0.93.3) in nested entry @effect/cli/@effect/platform
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/helper-validator-identifier (spec: ^7.28.5) in nested entry @babel/core/@babel/types/@babel/helper-validator-identifier
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.4) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for debug (spec: ~4.3.1) in nested entry engine.io/debug
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.5) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.1.8 for confbox (spec: ^0.1.8) in nested entry mlly/pkg-types/confbox
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.1 for lru-cache (spec: ^5.1.1) in nested entry @babel/helper-compilation-targets/lru-cache
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.3.1 for semver (spec: ^6.3.1) in nested entry @babel/core/semver
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.3) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.14.1 for js-yaml (spec: ^3.13.1) in nested entry gray-matter/js-yaml
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/openbsd-x64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/openbsd-x64
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/traverse (spec: ^7.27.1) in nested entry @babel/core/@babel/traverse
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 8.17.1 for ws (spec: ~8.17.1) in nested entry engine.io/ws
+2026-02-26T22:29:01.132+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.3.1 for semver (spec: ^6.3.1) in nested entry @babel/core/semver
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.4 for @babel/runtime (spec: ^7.28.4) in nested entry @base-ui-components/react/@babel/runtime
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/middleware-host-header (spec: 3.965.0) in nested entry @aws-sdk/client-s3/@aws-sdk/middleware-host-header
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.7.2 for cookie (spec: ~0.7.2) in nested entry @bundled-es-modules/cookie/cookie
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/traverse (spec: ^7.27.1) in nested entry @babel/core/@babel/traverse
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-body-length-browser (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-body-length-browser
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.4 for @babel/runtime (spec: ^7.28.4) in nested entry @base-ui-components/react/@babel/runtime
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/util-user-agent-node (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/util-user-agent-node
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/middleware-user-agent (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/middleware-user-agent
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.10 for argparse (spec: ^1.0.7) in nested entry gray-matter/js-yaml/argparse
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/generator (spec: ^7.28.5) in nested entry @babel/core/@babel/generator
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.20.3 for @smithy/core (spec: ^3.20.2) in nested entry @aws-sdk/client-s3/@smithy/core
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.11) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/core (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.5) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.93.8 for @effect/platform (spec: ^0.93.3) in nested entry @effect/cli/@effect/platform
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/util-endpoints (spec: 3.965.0) in nested entry @aws-sdk/client-s3/@aws-sdk/util-endpoints
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/win32-arm64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/win32-arm64
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for debug (spec: ~4.3.4) in nested entry engine.io/debug
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/url-parser (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/url-parser
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.2.7 for @smithy/util-endpoints (spec: ^3.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-endpoints
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.5) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/traverse (spec: ^7.28.3) in nested entry @babel/core/@babel/traverse
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.20 for @smithy/middleware-retry (spec: ^4.4.19) in nested entry @aws-sdk/client-s3/@smithy/middleware-retry
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.24.3) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-middleware (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-middleware
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.8) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.138+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-retry (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-retry
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.24.1) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/service-error-classification (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/middleware-retry/@smithy/service-error-classification
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 8.17.1 for ws (spec: ~8.17.1) in nested entry engine.io/ws
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 10.4.3 for lru-cache (spec: ^10.2.0) in nested entry @sentry/bundler-plugin-core/glob/path-scurry/lru-cache
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/service-error-classification (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/middleware-retry/@smithy/service-error-classification
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.0.0 for resolve-from (spec: ^4.0.0) in nested entry import-fresh/resolve-from
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.10.5 for @smithy/smithy-client (spec: ^4.10.5) in nested entry @aws-sdk/client-s3/@smithy/smithy-client
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.4) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/freebsd-x64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/freebsd-x64
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.4 for @smithy/middleware-endpoint (spec: ^4.4.3) in nested entry @aws-sdk/client-s3/@smithy/middleware-endpoint
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.8 for @smithy/middleware-serde (spec: ^4.2.8) in nested entry @aws-sdk/client-s3/@smithy/middleware-serde
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/middleware-logger (spec: 3.965.0) in nested entry @aws-sdk/client-s3/@aws-sdk/middleware-logger
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for debug (spec: ~4.3.1) in nested entry engine.io/debug
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.5.8 for @smithy/util-stream (spec: ^4.5.8) in nested entry @aws-sdk/client-s3/@smithy/util-stream
+2026-02-26T22:29:01.139+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.20.3 for @smithy/core (spec: ^3.20.2) in nested entry @aws-sdk/client-s3/@smithy/core
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.8 for @smithy/fetch-http-handler (spec: ^5.3.8) in nested entry @aws-sdk/client-s3/@smithy/fetch-http-handler
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.0.5 for minimatch (spec: ^9.0.4) in nested entry @sentry/bundler-plugin-core/glob/minimatch
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.5 for @smithy/config-resolver (spec: ^4.4.5) in nested entry @aws-sdk/client-s3/@smithy/config-resolver
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-config-provider (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@aws-sdk/middleware-sdk-s3/@smithy/util-config-provider
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 1.0.5 for html-void-elements (spec: ^1.0.0) in nested entry hast-util-raw/html-void-elements
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.2.7 for @smithy/util-endpoints (spec: ^3.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-endpoints
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-middleware (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-middleware
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.19 for @smithy/util-defaults-mode-browser (spec: ^4.3.18) in nested entry @aws-sdk/client-s3/@smithy/util-defaults-mode-browser
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/property-provider (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/property-provider
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 0.27.2 for @esbuild/win32-x64 (spec: 0.27.2) in nested entry tsx/esbuild/@esbuild/win32-x64
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.10.5 for @smithy/smithy-client (spec: ^4.10.5) in nested entry @aws-sdk/client-s3/@smithy/smithy-client
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.2.7 for @smithy/util-endpoints (spec: ^3.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-endpoints
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-retry (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-retry
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/middleware-stack (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/middleware-stack
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/util-endpoints (spec: 3.965.0) in nested entry @aws-sdk/client-s3/@aws-sdk/util-endpoints
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.0.1 for uuid (spec: ^9.0.1) in nested entry @giphy/js-util/uuid
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 13.1.0 for commander (spec: ^13.0.0) in nested entry react-email/commander
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-middleware (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-middleware
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.4.3 for jackspeak (spec: ^3.1.2) in nested entry @sentry/bundler-plugin-core/glob/jackspeak
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.2.7 for debug (spec: ^3.2.7) in nested entry sockjs-client/debug
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.6.0 for proxy-compare (spec: 2.6.0) in nested entry react-tracked/proxy-compare
+2026-02-26T22:29:01.137+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.3.1 for semver (spec: ^6.3.1) in nested entry @babel/core/semver
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 8.1.0 for wrap-ansi (spec: ^8.1.0) in nested entry @isaacs/cliui/wrap-ansi
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/signature-v4-multi-region (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/signature-v4-multi-region
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 10.5.0 for glob (spec: ^10.5.0) in nested entry @sentry/bundler-plugin-core/glob
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.22 for @smithy/util-defaults-mode-node (spec: ^4.2.21) in nested entry @aws-sdk/client-s3/@smithy/util-defaults-mode-node
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/property-provider (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/property-provider
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.10.5 for @smithy/smithy-client (spec: ^4.10.5) in nested entry @aws-sdk/client-s3/@smithy/smithy-client
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.136+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/credential-provider-imds (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@aws-sdk/credential-provider-node/@smithy/credential-provider-imds
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.8) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.0.0) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/property-provider (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/property-provider
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/traverse (spec: ^7.27.1) in nested entry @babel/core/@babel/traverse
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.0 for @smithy/util-utf8 (spec: ^2.0.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/url-parser (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/url-parser
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.2.0 for @smithy/util-buffer-from (spec: ^2.2.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8/@smithy/util-buffer-from
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.5 for @smithy/config-resolver (spec: ^4.4.5) in nested entry @aws-sdk/client-s3/@smithy/config-resolver
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.2.0 for @smithy/is-array-buffer (spec: ^2.2.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8/@smithy/util-buffer-from/@smithy/is-array-buffer
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.4.3 for jackspeak (spec: ^3.1.2) in nested entry @sentry/bundler-plugin-core/glob/jackspeak
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.5.8 for @smithy/util-stream (spec: ^4.5.8) in nested entry @aws-sdk/client-s3/@smithy/util-stream
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.2.0 for ansi-regex (spec: ^6.0.1) in nested entry @isaacs/cliui/strip-ansi/ansi-regex
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/generator (spec: ^7.28.5) in nested entry @babel/core/@babel/generator
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/core (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.0 for @smithy/util-utf8 (spec: ^2.0.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/is-array-buffer (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/signature-v4/@smithy/is-array-buffer
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.2 for string-width (spec: ^5.0.1) in nested entry @isaacs/cliui/string-width
+2026-02-26T22:29:01.140+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.10 for @types/hast (spec: ^2.0.0) in nested entry @mintlify/common/hast-util-from-html/@types/hast
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 8.1.0 for wrap-ansi (spec: ^8.1.0) in nested entry @isaacs/cliui/wrap-ansi
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.0.0 for mdast-util-to-string (spec: ^4.0.0) in nested entry mdast-util-from-markdown/mdast-util-to-string
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.2 for string-width (spec: ^5.0.1) in nested entry @isaacs/cliui/string-width
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.8) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.5) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.142+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.24.1) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.2.2 for emoji-regex (spec: ^9.2.2) in nested entry @isaacs/cliui/string-width/emoji-regex
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/util-middleware (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/util-middleware
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/region-config-resolver (spec: 3.965.0) in nested entry @aws-sdk/client-s3/@aws-sdk/region-config-resolver
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.5) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.7 for @smithy/node-config-provider (spec: ^4.3.7) in nested entry @aws-sdk/client-s3/@smithy/node-config-provider
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.5 for @smithy/config-resolver (spec: ^4.4.5) in nested entry @aws-sdk/client-s3/@smithy/config-resolver
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/traverse (spec: ^7.28.3) in nested entry @babel/core/@babel/traverse
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 9.2.2 for emoji-regex (spec: ^9.2.2) in nested entry @isaacs/cliui/string-width/emoji-regex
+2026-02-26T22:29:01.143+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/hash-node (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/hash-node
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-buffer-from (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/hash-node/@smithy/util-buffer-from
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.25.76 for zod (spec: ^3.23.8) in nested entry @ai-sdk/anthropic/zod
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.0 for @smithy/util-utf8 (spec: ^4.2.0) in nested entry @aws-sdk/client-s3/@smithy/util-utf8
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.141+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.28.3) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/middleware-content-length (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/middleware-content-length
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 6.2.1 for ansi-styles (spec: ^6.1.0) in nested entry @isaacs/cliui/wrap-ansi/ansi-styles
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.0 for @smithy/util-base64 (spec: ^4.3.0) in nested entry @aws-sdk/client-s3/@smithy/util-base64
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/abort-controller (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/node-http-handler/@smithy/abort-controller
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.6.0 for chalk (spec: ^5.3.0) in nested entry @mintlify/cli/chalk
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.1.0 for strip-ansi (spec: ^7.0.1) in nested entry @isaacs/cliui/strip-ansi
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/middleware-recursion-detection (spec: 3.965.0) in nested entry @aws-sdk/client-s3/@aws-sdk/middleware-recursion-detection
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/types (spec: ^7.28.5) in nested entry @babel/core/@babel/types
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.3.7 for @smithy/protocol-http (spec: ^5.3.7) in nested entry @aws-sdk/client-s3/@smithy/protocol-http
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 5.1.2 for string-width (spec: ^5.1.2) in nested entry @isaacs/cliui/string-width
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.144+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 2.3.0 for @smithy/util-utf8 (spec: ^2.0.0) in nested entry @aws-crypto/sha1-browser/@smithy/util-utf8
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.0.0 for mdast-util-to-string (spec: ^4.0.0) in nested entry mdast-util-from-markdown/mdast-util-to-string
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/middleware-user-agent (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/middleware-user-agent
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/helper-validator-identifier (spec: ^7.28.5) in nested entry @babel/core/@babel/types/@babel/helper-validator-identifier
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.3.0 for @smithy/util-base64 (spec: ^4.3.0) in nested entry @aws-sdk/client-s3/@smithy/util-base64
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/invalid-dependency (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/invalid-dependency
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/url-parser (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@smithy/url-parser
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/credential-provider-node (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/credential-provider-node
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.4.2 for @smithy/shared-ini-file-loader (spec: ^4.4.2) in nested entry @aws-sdk/client-s3/@aws-sdk/credential-provider-node/@smithy/shared-ini-file-loader
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 7.28.5 for @babel/parser (spec: ^7.27.2) in nested entry @babel/core/@babel/parser
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/credential-provider-imds (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@aws-sdk/credential-provider-node/@smithy/credential-provider-imds
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.967.0 for @aws-sdk/credential-provider-env (spec: 3.967.0) in nested entry @aws-sdk/client-s3/@aws-sdk/credential-provider-node/@aws-sdk/credential-provider-env
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.11.0 for @smithy/types (spec: ^4.11.0) in nested entry @aws-crypto/crc32/@aws-sdk/types/@smithy/types
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.3.11 for nanoid (spec: ^3.3.11) in nested entry @ai-sdk/provider-utils/nanoid
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 4.2.7 for @smithy/property-provider (spec: ^4.2.7) in nested entry @aws-sdk/client-s3/@aws-sdk/core/@smithy/property-provider
+2026-02-26T22:29:01.145+0530 [DEBUG] turborepo_lockfiles::bun: Found matching version 3.965.0 for @aws-sdk/types (spec: 3.965.0) in nested entry @aws-crypto/crc32/@aws-sdk/types

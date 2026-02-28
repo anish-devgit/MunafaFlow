@@ -1,0 +1,18 @@
+- event [next-runtime-env] read environment variables prefixed with 'NEXT_PUBLIC_' from process.env.
+- ready [next-runtime-env] wrote browser runtime environment variables to 'C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\viewer/public/__ENV.js'.
+- event [next-runtime-env] read environment variables prefixed with 'NEXT_PUBLIC_' from process.env.
+- ready [next-runtime-env] wrote browser runtime environment variables to 'C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\viewer/public/__ENV.js'.
+   Γû▓ Next.js 15.5.9
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.218.221:3001
+
+ Γ£ô Starting...
+ Γùï Compiling /instrumentation ...
+ Γ£ô Compiled /instrumentation in 18.3s (1598 modules)
+ Γ£ô Ready in 49.1s
+ Γùï Compiling /[[...publicId]] ...
+ Γ£ô Compiled /[[...publicId]] in 31.8s (1996 modules)
+ GET / 200 in 38030ms
+ Γùï Compiling /_not-found ...
+ Γ£ô Compiled /_not-found in 9s (2542 modules)
+ GET /favicon.ico 404 in 10023ms

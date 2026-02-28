@@ -1,0 +1,111 @@
+ΓÇó turbo 2.8.7
+ΓÇó Packages in scope: @typebot.io/ai, @typebot.io/anthropic-block, @typebot.io/auth, @typebot.io/billing, @typebot.io/blink-block, @typebot.io/blocks-base, @typebot.io/blocks-bubbles, @typebot.io/blocks-core, @typebot.io/blocks-inputs, @typebot.io/blocks-integrations, @typebot.io/blocks-logic, @typebot.io/bot-engine, @typebot.io/cal-com-block, @typebot.io/chat-api, @typebot.io/chat-node-block, @typebot.io/chat-session, @typebot.io/conditions, @typebot.io/config, @typebot.io/credentials, @typebot.io/deepseek-block, @typebot.io/dify-ai-block, @typebot.io/elevenlabs-block, @typebot.io/emails, @typebot.io/env, @typebot.io/events, @typebot.io/file-input-block, @typebot.io/forge, @typebot.io/forge-repository, @typebot.io/gmail-block, @typebot.io/groq-block, @typebot.io/groups, @typebot.io/js, @typebot.io/legacy, @typebot.io/lib, @typebot.io/logs, @typebot.io/mistral-block, @typebot.io/nocodb-block, @typebot.io/open-router-block, @typebot.io/openai-block, @typebot.io/partykit, @typebot.io/perplexity-block, @typebot.io/playwright, @typebot.io/posthog-block, @typebot.io/prisma, @typebot.io/qrcode-block, @typebot.io/radar, @typebot.io/react, @typebot.io/results, @typebot.io/rich-text, @typebot.io/runtime-session-store, @typebot.io/schemas, @typebot.io/segment-block, @typebot.io/settings, @typebot.io/telemetry, @typebot.io/templates, @typebot.io/theme, @typebot.io/together-ai-block, @typebot.io/tsconfig, @typebot.io/typebot, @typebot.io/ui, @typebot.io/user, @typebot.io/variables, @typebot.io/webhook-block, @typebot.io/whatsapp, @typebot.io/workspaces, @typebot.io/zendesk-block, builder, landing-page, viewer, workflows
+ΓÇó Running dev in 70 packages
+ΓÇó Remote caching disabled
+@typebot.io/prisma:db:generate: cache bypass, force executing 70a1fc274a3c03ac
+@typebot.io/prisma:db:generate: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-generate.ts
+@typebot.io/prisma:db:push: cache bypass, force executing 42a417ec0382c3d9
+@typebot.io/prisma:db:push: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-push.ts
+@typebot.io/env:build: cache hit, suppressing logs dcce0f05a4a4297b
+@typebot.io/prisma:db:push: Executing for PostgreSQL schema
+@typebot.io/prisma:db:generate: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:push: ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+@typebot.io/prisma:db:push: Γöé  Update available 7.4.0 -> 7.4.1                        Γöé
+@typebot.io/prisma:db:push: Γöé  Run the following to update                            Γöé
+@typebot.io/prisma:db:push: Γöé    npm i --save-dev prisma@latest                       Γöé
+@typebot.io/prisma:db:push: Γöé    npm i @prisma/client@latest                          Γöé
+@typebot.io/prisma:db:push: ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Datasource "db": PostgreSQL database "typebot", schema "public" at "127.0.0.1:5433"
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: The database is already in sync with the Prisma schema.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:generate: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Γ£ö Generated Prisma Client (v7.4.0) to .\..\..\node_modules\@prisma\client in 1.88s
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Γ£ö Generated Prisma Effect Generator to .\.effect\index.ts in 106ms
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/js:build: cache hit, suppressing logs a43a3a1a1d7a4ec8
+@typebot.io/react:build: cache hit, suppressing logs 19dff31b0e1f20bb
+@typebot.io/prisma:dev: cache bypass, force executing 36cebca68aa0a321
+@typebot.io/js:dev: cache bypass, force executing 9f7bbe8437616ae4
+builder:dev: cache bypass, force executing 23377472e4b335af
+@typebot.io/prisma:dev: $ dotenv -e ./.env -e ../../.env -- tsx scripts/studio.ts
+@typebot.io/js:dev: $ tsup --watch
+viewer:dev: cache bypass, force executing 83519bc2414fc725
+builder:dev: $ dotenv -e ./.env -e ../../.env -- next dev -p 3000
+workflows:dev: cache bypass, force executing da2a5f187de6476e
+viewer:dev: $ dotenv -e ./.env -e ../../.env  -- next dev -p 3001
+workflows:dev: $ dotenv -e ./.env -e ../../.env -- bun --watch --no-clear-screen src/index.ts
+@typebot.io/env:dev: cache bypass, force executing 976cd023ae22acd5
+@typebot.io/env:dev: $ tsup src/index.ts --format esm --watch
+@typebot.io/partykit:dev: cache bypass, force executing 35569091666d8e95
+@typebot.io/react:dev: cache bypass, force executing b449df9f896827f8
+@typebot.io/partykit:dev: $ partykit dev --live
+landing-page:dev: cache bypass, force executing 68f49605aba0b88f
+@typebot.io/react:dev: $ tsup --watch
+landing-page:dev: $ dotenv -e ./.env -e ../../.env -- vite dev --port 3003
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\config\src\index.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\lib\src\redis\RedisClient.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\results\src\services\ResultsService.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\prisma\.effect\index.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\prisma\src\index.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\config\src\constants.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\lib\src\nodemailer\NodemailerClient.ts is not in the project directory and will not be watched
+@typebot.io/prisma:dev: Executing for PostgreSQL schema
+@typebot.io/prisma:dev: Command failed: BROWSER=none prisma studio --port 5555 --config prisma.config.ts
+@typebot.io/prisma:dev: 'BROWSER' is not recognized as an internal or external command,
+@typebot.io/prisma:dev: operable program or batch file.
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: node:internal/errors:983
+@typebot.io/prisma:dev:   const err = new Error(message);
+@typebot.io/prisma:dev:               ^
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: Error: Command failed: BROWSER=none prisma studio --port 5555 --config prisma.config.ts
+@typebot.io/prisma:dev: 'BROWSER' is not recognized as an internal or external command,
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: operable program or batch file.
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at genericNodeError (node:internal/errors:983:15)
+@typebot.io/prisma:dev:     at wrappedFn (node:internal/errors:537:14)
+@typebot.io/prisma:dev:     at ChildProcess.exithandler (node:child_process:417:12)
+@typebot.io/prisma:dev:     at ChildProcess.emit (node:events:519:28)
+@typebot.io/prisma:dev:     at maybeClose (node:internal/child_process:1101:16)
+@typebot.io/prisma:dev:     at ChildProcess._handle.onexit (node:internal/child_process:304:5) {
+@typebot.io/prisma:dev:   code: 1,
+@typebot.io/prisma:dev:   killed: false,
+@typebot.io/prisma:dev:   signal: null,
+@typebot.io/prisma:dev:   cmd: 'BROWSER=none prisma studio --port 5555 --config prisma.config.ts'
+@typebot.io/prisma:dev: }
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: Node.js v22.22.0
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\emails\transactional\UserOnboardingEmail.tsx is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\emails\helpers\suppressedEmails.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\env\src\index.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\results\src\streamAllResultsToCsvV2.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\results\src\getExportFileName.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\groups\src\helpers\parseGroups.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\emails\transactional\ResultsExportLinkEmail.tsx is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\config\src\workflowsRpcProtocol.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\user\src\normalizeEmail.ts is not in the project directory and will not be watched
+workflows:dev: warn: File C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\user\src\createUnsubscribeToken.ts is not in the project directory and will not be watched
+@typebot.io/prisma:dev: error: script "dev" exited with code 1
+@typebot.io/prisma:dev: ERROR: command finished with error: command (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\prisma) C:\Users\anish\.bun\bin\bun.exe run dev exited (1)
+@typebot.io/prisma#dev: command (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\prisma) C:\Users\anish\.bun\bin\bun.exe run dev exited (1)
+
+ Tasks:    5 successful, 14 total
+Cached:    3 cached, 14 total
+  Time:    56.66s 
+Failed:    @typebot.io/prisma#dev
+
+ ERROR  run failed: command  exited (1)

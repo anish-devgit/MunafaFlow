@@ -1,0 +1,52 @@
+• turbo 2.8.7
+• Packages in scope: viewer
+• Running dev in 1 packages
+• Remote caching disabled
+@typebot.io/prisma:db:generate: cache bypass, force executing 22621b41b2dabe3b
+@typebot.io/prisma:db:generate: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-generate.ts
+@typebot.io/prisma:db:push: cache bypass, force executing a63aa23447855098
+@typebot.io/prisma:db:push: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-push.ts
+@typebot.io/env:build: cache hit, suppressing logs dcce0f05a4a4297b
+@typebot.io/prisma:db:generate: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Datasource "db": PostgreSQL database "typebot", schema "public" at "127.0.0.1:5433"
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: The database is already in sync with the Prisma schema.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:generate: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: ✔ Generated Prisma Client (v7.4.0) to .\..\..\node_modules\@prisma\client in 1.68s
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: ✔ Generated Prisma Effect Generator to .\.effect\index.ts in 104ms
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/js:build: cache hit, suppressing logs d6674fa3f07db312
+@typebot.io/react:build: cache hit, suppressing logs 4b3a0d7dab332fe5
+viewer:dev: cache bypass, force executing 8c39059d25341214
+viewer:dev: $ dotenv -e ./.env -e ../../.env  -- next dev -p 3001
+viewer:dev: - event [next-runtime-env] read environment variables prefixed with 'NEXT_PUBLIC_' from process.env.
+viewer:dev: - ready [next-runtime-env] wrote browser runtime environment variables to 'C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\viewer/public/__ENV.js'.
+viewer:dev:  ⨯ Failed to start server
+viewer:dev: Error: listen EADDRINUSE: address already in use :::3001
+viewer:dev:     at <unknown> (Error: listen EADDRINUSE: address already in use :::3001)
+viewer:dev:     at new Promise (<anonymous>) {
+viewer:dev:   code: 'EADDRINUSE',
+viewer:dev:   errno: -4091,
+viewer:dev:   syscall: 'listen',
+viewer:dev:   address: '::',
+viewer:dev:   port: 3001
+viewer:dev: }
+viewer:dev: [?25h
+
+ Tasks:    6 successful, 6 total
+Cached:    3 cached, 6 total
+  Time:    46.818s 
+

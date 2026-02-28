@@ -1,0 +1,63 @@
+• turbo 2.8.7
+• Packages in scope: @typebot.io/ai, @typebot.io/anthropic-block, @typebot.io/auth, @typebot.io/billing, @typebot.io/blink-block, @typebot.io/blocks-base, @typebot.io/blocks-bubbles, @typebot.io/blocks-core, @typebot.io/blocks-inputs, @typebot.io/blocks-integrations, @typebot.io/blocks-logic, @typebot.io/bot-engine, @typebot.io/cal-com-block, @typebot.io/chat-api, @typebot.io/chat-node-block, @typebot.io/chat-session, @typebot.io/conditions, @typebot.io/config, @typebot.io/credentials, @typebot.io/deepseek-block, @typebot.io/dify-ai-block, @typebot.io/elevenlabs-block, @typebot.io/emails, @typebot.io/env, @typebot.io/events, @typebot.io/file-input-block, @typebot.io/forge, @typebot.io/forge-repository, @typebot.io/gmail-block, @typebot.io/groq-block, @typebot.io/groups, @typebot.io/js, @typebot.io/legacy, @typebot.io/lib, @typebot.io/logs, @typebot.io/mistral-block, @typebot.io/nocodb-block, @typebot.io/open-router-block, @typebot.io/openai-block, @typebot.io/perplexity-block, @typebot.io/playwright, @typebot.io/posthog-block, @typebot.io/prisma, @typebot.io/qrcode-block, @typebot.io/radar, @typebot.io/react, @typebot.io/results, @typebot.io/rich-text, @typebot.io/runtime-session-store, @typebot.io/schemas, @typebot.io/segment-block, @typebot.io/settings, @typebot.io/telemetry, @typebot.io/templates, @typebot.io/theme, @typebot.io/together-ai-block, @typebot.io/tsconfig, @typebot.io/typebot, @typebot.io/ui, @typebot.io/user, @typebot.io/variables, @typebot.io/webhook-block, @typebot.io/whatsapp, @typebot.io/workspaces, @typebot.io/zendesk-block, builder, landing-page, viewer
+• Running dev in 68 packages
+• Remote caching disabled
+@typebot.io/prisma:db:push: cache bypass, force executing a63aa23447855098
+@typebot.io/prisma:db:generate: cache bypass, force executing 22621b41b2dabe3b
+@typebot.io/prisma:db:push: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-push.ts
+@typebot.io/prisma:db:generate: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-generate.ts
+@typebot.io/env:build: cache hit, suppressing logs dcce0f05a4a4297b
+@typebot.io/prisma:db:generate: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Datasource "db": PostgreSQL database "typebot", schema "public" at "127.0.0.1:5433"
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: The database is already in sync with the Prisma schema.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:generate: Command failed: prisma generate --no-hints --config prisma.config.ts --schema postgresql\schema.prisma
+@typebot.io/prisma:db:generate: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:generate: Error: 
+@typebot.io/prisma:db:generate: EBUSY: resource busy or locked, copyfile 'C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@prisma\client\runtime\query_compiler_fast_bg.postgresql.js' -> 'C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\.prisma\client\query_compiler_fast_bg.js'
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: ✔ Generated Prisma Effect Generator to .\.effect\index.ts in 105ms
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Error: Command failed: prisma generate --no-hints --config prisma.config.ts --schema postgresql\schema.prisma
+@typebot.io/prisma:db:generate: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:generate: Error: 
+@typebot.io/prisma:db:generate: EBUSY: resource busy or locked, copyfile 'C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@prisma\client\runtime\query_compiler_fast_bg.postgresql.js' -> 'C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\.prisma\client\query_compiler_fast_bg.js'
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: ✔ Generated Prisma Effect Generator to .\.effect\index.ts in 105ms
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate:     at genericNodeError (node:internal/errors:983:15)
+@typebot.io/prisma:db:generate:     at wrappedFn (node:internal/errors:537:14)
+@typebot.io/prisma:db:generate:     at ChildProcess.exithandler (node:child_process:417:12)
+@typebot.io/prisma:db:generate:     at ChildProcess.emit (node:events:519:28)
+@typebot.io/prisma:db:generate:     at maybeClose (node:internal/child_process:1101:16)
+@typebot.io/prisma:db:generate:     at ChildProcess._handle.onexit (node:internal/child_process:304:5) {
+@typebot.io/prisma:db:generate:   code: 1,
+@typebot.io/prisma:db:generate:   killed: false,
+@typebot.io/prisma:db:generate:   signal: null,
+@typebot.io/prisma:db:generate:   cmd: 'prisma generate --no-hints --config prisma.config.ts --schema postgresql\\schema.prisma'
+@typebot.io/prisma:db:generate: }
+@typebot.io/prisma:db:generate: error: script "db:generate" exited with code 1
+@typebot.io/prisma:db:generate: ERROR: command finished with error: command (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\prisma) C:\Users\anish\.bun\bin\bun.exe run db:generate exited (1)
+@typebot.io/prisma#db:generate: command (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\prisma) C:\Users\anish\.bun\bin\bun.exe run db:generate exited (1)
+
+ Tasks:    2 successful, 3 total
+Cached:    1 cached, 3 total
+  Time:    26.843s 
+Failed:    @typebot.io/prisma#db:generate
+
+ ERROR  run failed: command  exited (1)

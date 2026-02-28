@@ -1,0 +1,180 @@
+ΓÇó turbo 2.8.7
+ΓÇó Packages in scope: landing-page
+ΓÇó Running dev in 1 packages
+ΓÇó Remote caching disabled
+@typebot.io/prisma:db:push: cache bypass, force executing a63aa23447855098
+@typebot.io/prisma:db:generate: cache bypass, force executing 22621b41b2dabe3b
+@typebot.io/prisma:db:push: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-push.ts
+@typebot.io/prisma:db:generate: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-generate.ts
+@typebot.io/env:build: cache hit, suppressing logs dcce0f05a4a4297b
+@typebot.io/prisma:db:generate: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:push: ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+@typebot.io/prisma:db:push: Γöé  Update available 7.4.0 -> 7.4.2                        Γöé
+@typebot.io/prisma:db:push: Γöé  Run the following to update                            Γöé
+@typebot.io/prisma:db:push: Γöé    npm i --save-dev prisma@latest                       Γöé
+@typebot.io/prisma:db:push: Γöé    npm i @prisma/client@latest                          Γöé
+@typebot.io/prisma:db:push: ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Datasource "db": PostgreSQL database "typebot", schema "public" at "127.0.0.1:5433"
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: The database is already in sync with the Prisma schema.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:generate: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:generate: ΓöîΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÉ
+@typebot.io/prisma:db:generate: Γöé  Update available 7.4.0 -> 7.4.2                        Γöé
+@typebot.io/prisma:db:generate: Γöé  Run the following to update                            Γöé
+@typebot.io/prisma:db:generate: Γöé    npm i --save-dev prisma@latest                       Γöé
+@typebot.io/prisma:db:generate: Γöé    npm i @prisma/client@latest                          Γöé
+@typebot.io/prisma:db:generate: ΓööΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÿ
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Γ£ö Generated Prisma Client (v7.4.0) to .\..\..\node_modules\@prisma\client in 1.25s
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Γ£ö Generated Prisma Effect Generator to .\.effect\index.ts in 95ms
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/js:build: cache miss, executing d6674fa3f07db312
+@typebot.io/js:build: $ tsup
+@typebot.io/js:build: [34mCLI[39m Building entry: src/index.ts
+@typebot.io/js:build: [34mCLI[39m Using tsconfig: tsconfig.json
+@typebot.io/js:build: [34mCLI[39m tsup v8.5.0
+@typebot.io/js:build: [34mCLI[39m Using tsup config: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\js\tsup.config.ts
+@typebot.io/js:build: [34mCLI[39m Building entry: src/web.ts
+@typebot.io/js:build: [34mCLI[39m Using tsconfig: tsconfig.json
+@typebot.io/js:build: [34mCLI[39m tsup v8.5.0
+@typebot.io/js:build: [34mCLI[39m Using tsup config: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\js\tsup.config.ts
+@typebot.io/js:build: [34mCLI[39m Target: es2022
+@typebot.io/js:build: [34mESM[39m Build start
+@typebot.io/js:build: [34mCLI[39m Target: es2022
+@typebot.io/js:build: [34mESM[39m Build start
+@typebot.io/js:build: [32mESM[39m [1mdist\index.js [22m[32m1.62 KB[39m
+@typebot.io/js:build: [32mESM[39m ΓÜí∩╕Å Build success in 166ms
+@typebot.io/js:build: [34mDTS[39m Build start
+@typebot.io/js:build: [32mESM[39m [1mdist\web.js [22m[32m619.47 KB[39m
+@typebot.io/js:build: [32mESM[39m ΓÜí∩╕Å Build success in 16651ms
+@typebot.io/js:build: [32mDTS[39m ΓÜí∩╕Å Build success in 49193ms
+@typebot.io/js:build: [32mDTS[39m [1mdist\index.d.ts [22m[32m4.70 KB[39m
+@typebot.io/react:build: cache miss, executing 4b3a0d7dab332fe5
+@typebot.io/react:build: $ tsup
+@typebot.io/react:build: [34mCLI[39m Building entry: src/index.ts, src/web.ts
+@typebot.io/react:build: [34mCLI[39m Using tsconfig: tsconfig.json
+@typebot.io/react:build: [34mCLI[39m tsup v8.5.0
+@typebot.io/react:build: [34mCLI[39m Using tsup config: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\react\tsup.config.ts
+@typebot.io/react:build: [34mCLI[39m Target: es2022
+@typebot.io/react:build: [34mESM[39m Build start
+@typebot.io/react:build: [32mESM[39m [1mdist\index.js [22m[32m3.08 KB[39m
+@typebot.io/react:build: [32mESM[39m [1mdist\web.js   [22m[32m618.10 KB[39m
+@typebot.io/react:build: [32mESM[39m ΓÜí∩╕Å Build success in 172ms
+@typebot.io/react:build: [34mDTS[39m Build start
+@typebot.io/react:build: [32mDTS[39m ΓÜí∩╕Å Build success in 27074ms
+@typebot.io/react:build: [32mDTS[39m [1mdist\web.d.ts   [22m[32m13.00 B[39m
+@typebot.io/react:build: [32mDTS[39m [1mdist\index.d.ts [22m[32m1.37 KB[39m
+landing-page:dev: cache bypass, force executing b06a42a9c4fa0f85
+landing-page:dev: $ dotenv -e ./.env -e ../../.env -- vite dev --port 3003
+landing-page:dev: Starting content-collections with config content-collections.ts
+landing-page:dev: Start watching
+landing-page:dev: Start initial build
+landing-page:dev: build started ...
+landing-page:dev: Generated route tree in 2463ms
+landing-page:dev: ... finished build of 1 collection and 85 documents in 11046ms
+landing-page:dev: 
+landing-page:dev:   [32m[1mVITE[22m v7.0.0[39m  [2mready in [0m[1m46243[22m[2m[0m ms[22m
+landing-page:dev: 
+landing-page:dev:   [32mΓ₧£[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3003[22m/[39m
+landing-page:dev: [2m  [32mΓ₧£[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+landing-page:dev: [vite] connected.
+landing-page:dev: [2m5:39:29 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:39:29 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:39:29 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:39:29 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:39:29 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:39:29 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:39:38 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m Could not Fast Refresh ("close" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+landing-page:dev: [2m5:39:38 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\CookieConsentBot.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx[22m
+landing-page:dev: [2m5:39:41 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:39:41 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/js/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:40:10 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m Could not Fast Refresh ("close" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+landing-page:dev: [2m5:40:10 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\CookieConsentBot.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx[22m
+landing-page:dev: [2m5:41:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\blog\$slug.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\$slug.tsx[22m
+landing-page:dev: [2m5:41:19 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.content-collections/generated/allPosts.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:41:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\blog\$slug.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\$slug.tsx[22m
+landing-page:dev: [2m5:41:19 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.content-collections/generated/index.js[22m
+landing-page:dev: [2m5:41:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\blog\$slug.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\$slug.tsx[22m
+landing-page:dev: [2m5:41:19 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.content-collections/generated/allPosts.js[22m
+landing-page:dev: [2m5:41:19 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\blog\$slug.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\$slug.tsx[22m
+landing-page:dev: [2m5:41:19 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.content-collections/generated/allPosts.js[22m
+landing-page:dev: [2m5:41:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\blog\$slug.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\$slug.tsx[22m
+landing-page:dev: [2m5:41:20 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.content-collections/generated/allPosts.js[22m
+landing-page:dev: [2m5:41:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\blog\$slug.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\$slug.tsx[22m
+landing-page:dev: [2m5:41:20 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.content-collections/generated/allPosts.js[22m
+landing-page:dev: [2m5:41:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\blog\$slug.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\$slug.tsx[22m
+landing-page:dev: [2m5:41:20 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.content-collections/generated/allPosts.js[22m
+landing-page:dev: [2m5:41:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\blog\$slug.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\$slug.tsx[22m
+landing-page:dev: [2m5:41:20 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2m.content-collections/generated/allPosts.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [vite] program reload
+landing-page:dev: [vite] program reload
+landing-page:dev: [vite] program reload
+landing-page:dev: [vite] program reload
+landing-page:dev: [vite] program reload
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:42:21 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:42:21 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/js/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:42:21 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:42:26 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:42:26 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:42:26 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:42:48 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m Could not Fast Refresh ("close" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+landing-page:dev: [2m5:42:48 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\CookieConsentBot.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx[22m
+landing-page:dev: [2m5:47:40 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:47:40 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/js/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:47:40 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:47:42 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:47:42 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:47:42 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:47:43 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:47:43 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/js/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:47:59 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:48:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m Could not Fast Refresh ("close" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+landing-page:dev: [2m5:48:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\CookieConsentBot.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx[22m
+landing-page:dev: [2m5:50:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:50:20 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/js/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:50:20 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:50:23 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:50:23 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:50:23 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:50:24 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:50:24 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/js/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:50:30 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m Could not Fast Refresh ("close" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+landing-page:dev: [2m5:50:30 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\CookieConsentBot.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx[22m
+landing-page:dev: [2m5:52:41 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:52:41 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/js/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:52:41 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:52:42 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m Could not Fast Refresh ("close" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+landing-page:dev: [2m5:52:42 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\CookieConsentBot.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx[22m
+landing-page:dev: [2m5:53:26 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:53:26 am[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/js/dist/index.js[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m5:53:26 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
+landing-page:dev: [2m5:53:28 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m Could not Fast Refresh ("close" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+landing-page:dev: [2m5:53:28 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\CookieConsentBot.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx[22m

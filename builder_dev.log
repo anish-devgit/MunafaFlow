@@ -1,0 +1,189 @@
+ΓÇó turbo 2.8.7
+ΓÇó Packages in scope: @typebot.io/ai, @typebot.io/anthropic-block, @typebot.io/auth, @typebot.io/billing, @typebot.io/blink-block, @typebot.io/blocks-base, @typebot.io/blocks-bubbles, @typebot.io/blocks-core, @typebot.io/blocks-inputs, @typebot.io/blocks-integrations, @typebot.io/blocks-logic, @typebot.io/bot-engine, @typebot.io/cal-com-block, @typebot.io/chat-api, @typebot.io/chat-node-block, @typebot.io/chat-session, @typebot.io/conditions, @typebot.io/config, @typebot.io/credentials, @typebot.io/deepseek-block, @typebot.io/dify-ai-block, @typebot.io/elevenlabs-block, @typebot.io/emails, @typebot.io/env, @typebot.io/events, @typebot.io/forge, @typebot.io/forge-repository, @typebot.io/gmail-block, @typebot.io/groq-block, @typebot.io/groups, @typebot.io/js, @typebot.io/legacy, @typebot.io/lib, @typebot.io/logs, @typebot.io/mistral-block, @typebot.io/nocodb-block, @typebot.io/open-router-block, @typebot.io/openai-block, @typebot.io/perplexity-block, @typebot.io/posthog-block, @typebot.io/prisma, @typebot.io/qrcode-block, @typebot.io/radar, @typebot.io/react, @typebot.io/results, @typebot.io/rich-text, @typebot.io/runtime-session-store, @typebot.io/schemas, @typebot.io/segment-block, @typebot.io/settings, @typebot.io/telemetry, @typebot.io/templates, @typebot.io/theme, @typebot.io/together-ai-block, @typebot.io/tsconfig, @typebot.io/typebot, @typebot.io/ui, @typebot.io/user, @typebot.io/variables, @typebot.io/whatsapp, @typebot.io/workspaces, @typebot.io/zendesk-block, builder
+ΓÇó Running dev in 63 packages
+ΓÇó Remote caching disabled
+@typebot.io/prisma:db:push: cache bypass, force executing 420051ce33650395
+@typebot.io/prisma:db:push: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-push.ts
+@typebot.io/prisma:db:generate: cache bypass, force executing 5840c2b0c1635bea
+@typebot.io/env:build: cache hit, suppressing logs dcce0f05a4a4297b
+@typebot.io/prisma:db:generate: $ dotenv -e ./.env -e ../../.env -- tsx scripts/db-generate.ts
+@typebot.io/prisma:db:push: Executing for PostgreSQL schema
+@typebot.io/prisma:db:generate: Executing for PostgreSQL schema
+@typebot.io/prisma:db:push: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: Datasource "db": PostgreSQL database "typebot", schema "public" at "127.0.0.1:5433"
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: The database is already in sync with the Prisma schema.
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:push: 
+@typebot.io/prisma:db:generate: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Prisma schema loaded from postgresql\schema.prisma.
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Γ£ö Generated Prisma Client (v7.4.0) to .\..\..\node_modules\@prisma\client in 2.44s
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: Γ£ö Generated Prisma Effect Generator to .\.effect\index.ts in 122ms
+@typebot.io/prisma:db:generate: 
+@typebot.io/prisma:db:generate: 
+@typebot.io/js:build: cache hit, suppressing logs e4260521a6e015a2
+@typebot.io/react:build: cache hit, suppressing logs ee94dc3c89b26247
+@typebot.io/prisma:dev: cache bypass, force executing 2537fb017b5e725c
+@typebot.io/prisma:dev: $ dotenv -e ./.env -e ../../.env -- tsx scripts/studio.ts
+builder:dev: cache bypass, force executing f100117baf341439
+builder:dev: $ dotenv -e ./.env -e ../../.env -- next dev -p 3000
+@typebot.io/js:dev: cache bypass, force executing 25302f90df94515d
+@typebot.io/react:dev: cache bypass, force executing e92280cecf528a7f
+@typebot.io/js:dev: $ tsup --watch
+@typebot.io/react:dev: $ tsup --watch
+@typebot.io/env:dev: cache bypass, force executing 219ce25698037950
+@typebot.io/env:dev: $ tsup src/index.ts --format esm --watch
+@typebot.io/env:dev: [34mCLI[39m Building entry: src/index.ts
+@typebot.io/env:dev: [34mCLI[39m Using tsconfig: tsconfig.json
+@typebot.io/env:dev: [34mCLI[39m tsup v8.5.0
+@typebot.io/env:dev: [34mCLI[39m Running in watch mode
+@typebot.io/env:dev: [34mCLI[39m Target: es2022
+@typebot.io/env:dev: [34mESM[39m Build start
+@typebot.io/react:dev: [34mCLI[39m Building entry: src/index.ts, src/web.ts
+@typebot.io/react:dev: [34mCLI[39m Using tsconfig: tsconfig.json
+@typebot.io/react:dev: [34mCLI[39m tsup v8.5.0
+@typebot.io/react:dev: [34mCLI[39m Using tsup config: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\react\tsup.config.ts
+@typebot.io/react:dev: [34mCLI[39m Running in watch mode
+@typebot.io/react:dev: [34mCLI[39m Target: es2022
+@typebot.io/react:dev: [34mESM[39m Build start
+@typebot.io/env:dev: [32mESM[39m [1mdist\index.js [22m[32m15.25 KB[39m
+@typebot.io/env:dev: [32mESM[39m ΓÜí∩╕Å Build success in 205ms
+@typebot.io/env:dev: [34mCLI[39m Watching for changes in "."
+@typebot.io/env:dev: [34mCLI[39m Ignoring changes in "**/{.git,node_modules}/**" | "dist"
+@typebot.io/react:dev: [32mESM[39m [1mdist\web.js   [22m[32m43.00 B[39m
+@typebot.io/react:dev: [32mESM[39m [1mdist\index.js [22m[32m2.90 KB[39m
+@typebot.io/react:dev: [32mESM[39m ΓÜí∩╕Å Build success in 328ms
+@typebot.io/react:dev: [34mCLI[39m Watching for changes in "."
+@typebot.io/react:dev: [34mCLI[39m Ignoring changes in "**/{.git,node_modules}/**" | "dist"
+@typebot.io/prisma:dev: Executing for PostgreSQL schema
+@typebot.io/react:dev: [34mDTS[39m Build start
+@typebot.io/js:dev: [34mCLI[39m Building entry: src/index.ts
+@typebot.io/js:dev: [34mCLI[39m Using tsconfig: tsconfig.json
+@typebot.io/js:dev: [34mCLI[39m tsup v8.5.0
+@typebot.io/js:dev: [34mCLI[39m Using tsup config: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\js\tsup.config.ts
+@typebot.io/js:dev: [34mCLI[39m Running in watch mode
+@typebot.io/js:dev: [34mCLI[39m Building entry: src/web.ts
+@typebot.io/js:dev: [34mCLI[39m Using tsconfig: tsconfig.json
+@typebot.io/js:dev: [34mCLI[39m tsup v8.5.0
+@typebot.io/js:dev: [34mCLI[39m Using tsup config: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\embeds\js\tsup.config.ts
+@typebot.io/js:dev: [34mCLI[39m Running in watch mode
+@typebot.io/js:dev: [34mCLI[39m Target: es2022
+@typebot.io/js:dev: [34mESM[39m Build start
+@typebot.io/js:dev: [34mCLI[39m Target: es2022
+@typebot.io/js:dev: [34mESM[39m Build start
+@typebot.io/js:dev: [32mESM[39m [1mdist\index.js [22m[32m3.13 KB[39m
+@typebot.io/js:dev: [32mESM[39m ΓÜí∩╕Å Build success in 3305ms
+@typebot.io/js:dev: [34mCLI[39m Watching for changes in "."
+@typebot.io/js:dev: [34mCLI[39m Ignoring changes in "**/{.git,node_modules}/**" | "dist"
+@typebot.io/prisma:dev: Command failed: prisma studio --port 5555 --config prisma.config.ts
+@typebot.io/prisma:dev: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: node:events:497
+@typebot.io/prisma:dev:       throw er; // Unhandled 'error' event
+@typebot.io/prisma:dev:       ^
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: Error: listen EADDRINUSE: address already in use :::5555
+@typebot.io/prisma:dev:     at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+@typebot.io/prisma:dev:     at listenInCluster (node:net:1997:12)
+@typebot.io/prisma:dev:     at Server.listen (node:net:2102:7)
+@typebot.io/prisma:dev:     at Frt (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\prisma\build\index.js:4781:7950)
+@typebot.io/prisma:dev:     at e.parse (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\prisma\build\index.js:4822:2273)
+@typebot.io/prisma:dev:     at async e.parse (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\prisma\build\index.js:1060:2319)
+@typebot.io/prisma:dev:     at async qir (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\prisma\build\index.js:4927:136)
+@typebot.io/prisma:dev: Emitted 'error' event on Server instance at:
+@typebot.io/prisma:dev:     at emitErrorNT (node:net:1976:8)
+@typebot.io/prisma:dev:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+@typebot.io/prisma:dev:   code: 'EADDRINUSE',
+@typebot.io/prisma:dev:   errno: -4091,
+@typebot.io/prisma:dev:   syscall: 'listen',
+@typebot.io/prisma:dev:   address: '::',
+@typebot.io/prisma:dev:   port: 5555
+@typebot.io/prisma:dev: }
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: Node.js v22.22.0
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: node:internal/errors:983
+@typebot.io/prisma:dev:   const err = new Error(message);
+@typebot.io/prisma:dev:               ^
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: Error: Command failed: prisma studio --port 5555 --config prisma.config.ts
+@typebot.io/prisma:dev: Loaded Prisma config from prisma.config.ts.
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: node:events:497
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:       throw er; // Unhandled 'error' event
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:       ^
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: Error: listen EADDRINUSE: address already in use :::5555
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at Server.setupListenHandle [as _listen2] (node:net:1940:16)
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at listenInCluster (node:net:1997:12)
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at Server.listen (node:net:2102:7)
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at Frt (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\prisma\build\index.js:4781:7950)
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at e.parse (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\prisma\build\index.js:4822:2273)
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at async e.parse (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\prisma\build\index.js:1060:2319)
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at async qir (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\prisma\build\index.js:4927:136)
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: Emitted 'error' event on Server instance at:
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at emitErrorNT (node:net:1976:8)
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:   code: 'EADDRINUSE',
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:   errno: -4091,
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:   syscall: 'listen',
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:   address: '::',
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:   port: 5555
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: }
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: Node.js v22.22.0
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev:     at genericNodeError (node:internal/errors:983:15)
+@typebot.io/prisma:dev:     at wrappedFn (node:internal/errors:537:14)
+@typebot.io/prisma:dev:     at ChildProcess.exithandler (node:child_process:417:12)
+@typebot.io/prisma:dev:     at ChildProcess.emit (node:events:519:28)
+@typebot.io/prisma:dev:     at maybeClose (node:internal/child_process:1101:16)
+@typebot.io/prisma:dev:     at ChildProcess._handle.onexit (node:internal/child_process:304:5) {
+@typebot.io/prisma:dev:   code: 1,
+@typebot.io/prisma:dev:   killed: false,
+@typebot.io/prisma:dev:   signal: null,
+@typebot.io/prisma:dev:   cmd: 'prisma studio --port 5555 --config prisma.config.ts'
+@typebot.io/prisma:dev: }
+@typebot.io/prisma:dev: 
+@typebot.io/prisma:dev: Node.js v22.22.0
+@typebot.io/prisma:dev: error: script "dev" exited with code 1
+@typebot.io/js:dev: [34mDTS[39m Build start
+@typebot.io/prisma:dev: ERROR: command finished with error: command (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\prisma) C:\Users\anish\.bun\bin\bun.exe run dev exited (1)
+@typebot.io/prisma#dev: command (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\packages\prisma) C:\Users\anish\.bun\bin\bun.exe run dev exited (1)
+
+ Tasks:    5 successful, 10 total
+Cached:    3 cached, 10 total
+  Time:    37.696s 
+Failed:    @typebot.io/prisma#dev
+
+ ERROR  run failed: command  exited (1)
