@@ -27,7 +27,7 @@ export const Route = createFileRoute("/_layout/templates/$slug")({
   head: ({ loaderData }) => ({
     meta: loaderData
       ? createMetaTags({
-          title: `${getTemplateTitle(loaderData.template)} | Typebot`,
+          title: `${getTemplateTitle(loaderData.template)} | MunafaFlow`,
           description: loaderData.template.summary,
           imagePath: "/images/default-og.png",
           path: `/templates/${loaderData.template.slug}`,

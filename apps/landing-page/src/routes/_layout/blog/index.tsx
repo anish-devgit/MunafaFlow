@@ -9,7 +9,7 @@ import { createMetaTags } from "@/lib/createMetaTags";
 export const Route = createFileRoute("/_layout/blog/")({
   head: () => ({
     meta: createMetaTags({
-      title: "Typebot Blog",
+      title: "MunafaFlow Blog",
       description:
         "Learn more about Typebot, chatbots, conversational AI and more to help you hack the bot game and grow your business.",
       imagePath: "/images/default-og.png",
