@@ -12,7 +12,7 @@ import { createMetaTags } from "@/lib/createMetaTags";
 export const Route = createFileRoute("/_layout/templates/")({
   head: () => ({
     meta: createMetaTags({
-      title: "Chatbot Templates | Typebot",
+      title: "Chatbot Templates | MunafaFlow",
       description:
         "Browse ready-to-use chatbot templates for lead gen, support, surveys, and e-commerce. Start fast and customize.",
       imagePath: "/images/default-og.png",

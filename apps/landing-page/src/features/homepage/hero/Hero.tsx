@@ -17,8 +17,8 @@ export const Hero = () => (
     <div className="dark flex w-full justify-center sticky top-4 px-4">
       <TopBar className="hidden md:flex" />
     </div>
-    <div className="flex flex-col items-center px-2 gap-10 pb-44 md:sticky md:top-[calc(100vh/2-var(--hero-text-height)/2)] shrink-0 pt-32 md:pt-0">
-      <h1 className="text-center uppercase font-bold text-balance">
+    <div className="flex flex-col items-center px-4 gap-12 pb-44 md:sticky md:top-[calc(100vh/2-var(--hero-text-height)/2)] shrink-0 pt-32 md:pt-0">
+      <h1 className="text-center uppercase font-bold text-balance text-white drop-shadow-md">
         <span className="animate-in fade-in slide-in-from-bottom-10 blur-in-sm inline-block fill-mode-both duration-800 delay-700">
           AUTOMATE YOUR SALES ON
         </span>
@@ -28,10 +28,10 @@ export const Hero = () => (
         </span>
         <br />
         <span className="animate-in fade-in slide-in-from-bottom-10 blur-in-sm inline-block fill-mode-both delay-2500 duration-300">
-          A SINGLE LINE OF CODE.
+          A SINGLE LINE OF CODE
         </span>
       </h1>
-      <p className="text-center text-foreground/60 font-normal text-balance md:text-xl max-w-3xl animate-in fade-in slide-in-from-bottom-10 blur-in-sm fill-mode-both delay-3000 duration-600">
+      <p className="text-center text-white/90 font-medium text-balance md:text-2xl max-w-4xl animate-in fade-in slide-in-from-bottom-10 blur-in-sm fill-mode-both delay-3000 duration-600 drop-shadow-sm">
         MunafaFlow is India’s easiest drag-and-drop commerce builder. Automatically capture leads, book appointments, and collect UPI payments natively inside WhatsApp.
       </p>
 
@@ -44,14 +44,15 @@ export const Hero = () => (
       </CtaButtonLink>
     </div>
     <div
-      className="h-screen w-full sticky inset-0 px-0 rounded-3xl animate-magic-zoom opacity-0 hidden md:motion-reduce:hidden md:supports-[animation-timeline:scroll()]:block bg-[url('$magicBackgrounds/magic-background-desktop.png')] bg-no-repeat bg-size-[100%]"
+      className="h-screen w-full sticky inset-0 px-0 rounded-3xl animate-magic-zoom opacity-0 hidden md:motion-reduce:hidden md:supports-[animation-timeline:scroll()]:block"
       style={{
         animationTimeline: "--hero",
         animationRange: "contain 0% exit-crossing 50%",
+        background: "radial-gradient(circle at center, #25D366 0%, #128C7E 55%, #075E54 100%)",
       }}
     >
       <div
-        className="bg-[url('$magicBackgrounds/magic-background.png')] bg-no-repeat bg-size-[100%] size-full absolute top-0 animate-magic-zoom-blur"
+        className="size-full absolute top-0 animate-magic-zoom-blur bg-inherit"
         style={{
           animationTimeline: "--hero",
           animationRange: "contain 0% exit-crossing 50%",

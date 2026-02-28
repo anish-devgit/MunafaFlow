@@ -279,3 +279,264 @@ landing-page:dev: [vite] program reload
 landing-page:dev: [2m2:31:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\use-cases\UseCases.tsx, /src/assets/globals.css?direct[22m
 landing-page:dev: [2m2:31:11 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
 landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:46:53 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\link.tsx[22m
+landing-page:dev: [2m2:46:53 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/cta/CtaButton.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:49:29 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:49:29 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:01:35 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:01:35 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: Generated route tree in 36ms
+landing-page:dev: [2m3:01:37 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\index.tsx, /src/assets/globals.css?direct, /src/routes/index.tsx?tsr-split=component[22m
+landing-page:dev: [2m3:01:37 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:01:41 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\__root.tsx[22m
+landing-page:dev: [2m3:01:41 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/assets/globals.css[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m3:01:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\main-features\MainFeatures.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:01:50 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:05:54 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:05:54 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: Generated route tree in 29ms
+landing-page:dev: [2m3:06:25 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\index.tsx, /src/assets/globals.css?direct, /src/routes/index.tsx?tsr-split=component[22m
+landing-page:dev: [2m3:06:25 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:06:27 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\TypebotLogo.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:06:27 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/TypebotLogo.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m3:06:49 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:06:49 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m3:06:51 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\use-cases\UseCases.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:06:51 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:08:03 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:08:03 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:08:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\TypebotLogo.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:08:22 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/TypebotLogo.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m3:08:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:08:22 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [2m3:08:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\use-cases\UseCases.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:08:22 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: Generated route tree in 79ms
+landing-page:dev: [2m3:08:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\index.tsx, /src/assets/globals.css?direct, /src/routes/index.tsx?tsr-split=component[22m
+landing-page:dev: [2m3:08:22 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:12:05 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:12:05 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: Generated route tree in 89ms
+landing-page:dev: [2m3:12:08 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\index.tsx, /src/assets/globals.css?direct, /src/routes/index.tsx?tsr-split=component[22m
+landing-page:dev: [2m3:12:08 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:17:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:17:00 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:17:02 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\TypebotLogo.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:17:02 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/TypebotLogo.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: Generated route tree in 81ms
+landing-page:dev: [2m3:17:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\index.tsx, /src/assets/globals.css?direct, /src/routes/index.tsx?tsr-split=component[22m
+landing-page:dev: [2m3:17:09 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: Generated route tree in 20ms
+landing-page:dev: [2m3:21:45 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\index.tsx, /src/assets/globals.css?direct, /src/routes/index.tsx?tsr-split=component[22m
+landing-page:dev: [2m3:21:45 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:21:46 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\TypebotLogo.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:21:46 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/TypebotLogo.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m3:21:46 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:21:46 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:23:27 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:23:27 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: Generated route tree in 102ms
+landing-page:dev: [2m3:23:34 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\index.tsx, /src/assets/globals.css?direct, /src/routes/index.tsx?tsr-split=component[22m
+landing-page:dev: [2m3:23:34 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m3:26:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m3:26:19 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: Generated route tree in 46ms
+landing-page:dev: [2m3:26:21 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\index.tsx, /src/assets/globals.css?direct, /src/routes/index.tsx?tsr-split=component[22m
+landing-page:dev: [2m3:26:21 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m4:09:56 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\TypebotLogo.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m4:09:56 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/TypebotLogo.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m4:09:56 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\TypebotLogo.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m4:09:56 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/TypebotLogo.tsx[22m
+landing-page:dev: [2m4:09:57 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\TypebotLogo.tsx: Unexpected token (32:0)
+landing-page:dev: 
+landing-page:dev: [0m [90m 30 |[31m   [33m<[31m[33m/[31m[33mspan[31m[33m>[31m
+landing-page:dev:  [90m 31 |[31m )[33m;[31m
+landing-page:dev: [31m[1m>[22m[31m[90m 32 |[31m )[33m;[31m
+landing-page:dev:  [90m    |[31m [31m[1m^[22m[31m
+landing-page:dev:  [90m 33 |[31m[0m[39m
+landing-page:dev:   Plugin: [35mvite:react-babel[39m
+landing-page:dev:   File: [36mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/apps/landing-page/src/components/TypebotLogo.tsx[39m:32:0
+landing-page:dev:       at toParseError (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parse-error.ts:95:45)
+landing-page:dev:       at TypeScriptParserMixin.raise (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\tokenizer\index.ts:1507:19)
+landing-page:dev:       at TypeScriptParserMixin.unexpected (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\tokenizer\index.ts:1547:16)
+landing-page:dev:       at TypeScriptParserMixin.parseExprAtom (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:1355:22)
+landing-page:dev:       at TypeScriptParserMixin.parseExprAtom (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\plugins\jsx\index.ts:583:22)
+landing-page:dev:       at TypeScriptParserMixin.parseExprSubscripts (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:742:23)
+landing-page:dev:       at TypeScriptParserMixin.parseUpdate (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:721:21)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeUnary (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:683:23)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeUnary (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\plugins\typescript\index.ts:3876:20)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:417:14)
+landing-page:dev:       at TypeScriptParserMixin.parseExprOps (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:429:23)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeConditional (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:384:23)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeAssign (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:301:21)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeAssign (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\plugins\typescript\index.ts:3747:22)
+landing-page:dev:       at TypeScriptParserMixin.parseExpressionBase (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:226:23)
+landing-page:dev:       at callback (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:217:39)
+landing-page:dev:       at TypeScriptParserMixin.allowInAnd (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:3197:16)
+landing-page:dev:       at TypeScriptParserMixin.parseExpression (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:217:17)
+landing-page:dev:       at TypeScriptParserMixin.parseStatementContent (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:688:23)
+landing-page:dev:       at TypeScriptParserMixin.parseStatementContent (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\plugins\typescript\index.ts:3223:20)
+landing-page:dev:       at TypeScriptParserMixin.parseStatementLike (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:482:17)
+landing-page:dev:       at TypeScriptParserMixin.parseModuleItem (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:419:17)
+landing-page:dev:       at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:1443:16)
+landing-page:dev:       at TypeScriptParserMixin.parseBlockBody (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:1417:10)
+landing-page:dev:       at TypeScriptParserMixin.parseProgram (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:229:10)
+landing-page:dev:       at TypeScriptParserMixin.parseTopLevel (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:203:25)
+landing-page:dev:       at TypeScriptParserMixin.parse (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\index.ts:88:25)
+landing-page:dev:       at TypeScriptParserMixin.parse (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\plugins\typescript\index.ts:4337:20)
+landing-page:dev:       at parse (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\index.ts:86:38)
+landing-page:dev:       at parser (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\src\parser\index.ts:29:19)
+landing-page:dev:       at parser.next (<anonymous>)
+landing-page:dev:       at normalizeFile (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\src\transformation\normalize-file.ts:50:24)
+landing-page:dev:       at normalizeFile.next (<anonymous>)
+landing-page:dev:       at run (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\src\transformation\index.ts:41:36)
+landing-page:dev:       at run.next (<anonymous>)
+landing-page:dev:       at transform (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\src\transform.ts:29:20)
+landing-page:dev:       at transform.next (<anonymous>)
+landing-page:dev:       at step (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:261:32)
+landing-page:dev:       at C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:273:13
+landing-page:dev:       at async.call.result.err.err (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:223:11)
+landing-page:dev:       at C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:189:28
+landing-page:dev:       at <anonymous> (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\src\gensync-utils\async.ts:90:7)
+landing-page:dev:       at C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:113:33
+landing-page:dev:       at step (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:287:14)
+landing-page:dev:       at C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:273:13
+landing-page:dev:       at async.call.result.err.err (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:223:11)
+landing-page:dev: [2m4:09:57 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\TypebotLogo.tsx: Unexpected token (32:0)
+landing-page:dev: 
+landing-page:dev: [0m [90m 30 |[31m   [33m<[31m[33m/[31m[33mspan[31m[33m>[31m
+landing-page:dev:  [90m 31 |[31m )[33m;[31m
+landing-page:dev: [31m[1m>[22m[31m[90m 32 |[31m )[33m;[31m
+landing-page:dev:  [90m    |[31m [31m[1m^[22m[31m
+landing-page:dev:  [90m 33 |[31m[0m[39m
+landing-page:dev:   Plugin: [35mvite:react-babel[39m
+landing-page:dev:   File: [36mC:/Users/anish/OneDrive/Desktop/New folder/typebot.io/apps/landing-page/src/components/TypebotLogo.tsx[39m:32:0
+landing-page:dev:       at toParseError (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parse-error.ts:95:45)
+landing-page:dev:       at TypeScriptParserMixin.raise (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\tokenizer\index.ts:1507:19)
+landing-page:dev:       at TypeScriptParserMixin.unexpected (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\tokenizer\index.ts:1547:16)
+landing-page:dev:       at TypeScriptParserMixin.parseExprAtom (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:1355:22)
+landing-page:dev:       at TypeScriptParserMixin.parseExprAtom (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\plugins\jsx\index.ts:583:22)
+landing-page:dev:       at TypeScriptParserMixin.parseExprSubscripts (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:742:23)
+landing-page:dev:       at TypeScriptParserMixin.parseUpdate (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:721:21)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeUnary (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:683:23)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeUnary (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\plugins\typescript\index.ts:3876:20)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:417:14)
+landing-page:dev:       at TypeScriptParserMixin.parseExprOps (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:429:23)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeConditional (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:384:23)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeAssign (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:301:21)
+landing-page:dev:       at TypeScriptParserMixin.parseMaybeAssign (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\plugins\typescript\index.ts:3747:22)
+landing-page:dev:       at TypeScriptParserMixin.parseExpressionBase (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:226:23)
+landing-page:dev:       at callback (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:217:39)
+landing-page:dev:       at TypeScriptParserMixin.allowInAnd (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:3197:16)
+landing-page:dev:       at TypeScriptParserMixin.parseExpression (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\expression.ts:217:17)
+landing-page:dev:       at TypeScriptParserMixin.parseStatementContent (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:688:23)
+landing-page:dev:       at TypeScriptParserMixin.parseStatementContent (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\plugins\typescript\index.ts:3223:20)
+landing-page:dev:       at TypeScriptParserMixin.parseStatementLike (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:482:17)
+landing-page:dev:       at TypeScriptParserMixin.parseModuleItem (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:419:17)
+landing-page:dev:       at TypeScriptParserMixin.parseBlockOrModuleBlockBody (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:1443:16)
+landing-page:dev:       at TypeScriptParserMixin.parseBlockBody (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:1417:10)
+landing-page:dev:       at TypeScriptParserMixin.parseProgram (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:229:10)
+landing-page:dev:       at TypeScriptParserMixin.parseTopLevel (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\statement.ts:203:25)
+landing-page:dev:       at TypeScriptParserMixin.parse (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\parser\index.ts:88:25)
+landing-page:dev:       at TypeScriptParserMixin.parse (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\plugins\typescript\index.ts:4337:20)
+landing-page:dev:       at parse (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\node_modules\@babel\parser\src\index.ts:86:38)
+landing-page:dev:       at parser (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\src\parser\index.ts:29:19)
+landing-page:dev:       at parser.next (<anonymous>)
+landing-page:dev:       at normalizeFile (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\src\transformation\normalize-file.ts:50:24)
+landing-page:dev:       at normalizeFile.next (<anonymous>)
+landing-page:dev:       at run (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\src\transformation\index.ts:41:36)
+landing-page:dev:       at run.next (<anonymous>)
+landing-page:dev:       at transform (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\src\transform.ts:29:20)
+landing-page:dev:       at transform.next (<anonymous>)
+landing-page:dev:       at step (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:261:32)
+landing-page:dev:       at C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:273:13
+landing-page:dev:       at async.call.result.err.err (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:223:11)
+landing-page:dev:       at C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:189:28
+landing-page:dev:       at <anonymous> (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\@vitejs\plugin-react\node_modules\@babel\core\src\gensync-utils\async.ts:90:7)
+landing-page:dev:       at C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:113:33
+landing-page:dev:       at step (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:287:14)
+landing-page:dev:       at C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:273:13
+landing-page:dev:       at async.call.result.err.err (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\gensync\index.js:223:11)
+landing-page:dev: [vite] An error happened during full reload
+landing-page:dev: Transform failed with 1 error:
+landing-page:dev: C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/apps/landing-page/src/components/TypebotLogo.tsx:32:0: ERROR: Unexpected ")"
+landing-page:dev: Error: Transform failed with 1 error:
+landing-page:dev: C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/apps/landing-page/src/components/TypebotLogo.tsx:32:0: ERROR: Unexpected ")"
+landing-page:dev:     at failureErrorWithLog (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\vite\node_modules\esbuild\lib\main.js:1467:15)
+landing-page:dev:     at C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\vite\node_modules\esbuild\lib\main.js:736:50
+landing-page:dev:     at responseCallbacks.<computed> (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\vite\node_modules\esbuild\lib\main.js:603:9)
+landing-page:dev:     at handleIncomingPacket (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\vite\node_modules\esbuild\lib\main.js:658:12)
+landing-page:dev:     at Socket.readFromStdout (C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\node_modules\vite\node_modules\esbuild\lib\main.js:581:7)
+landing-page:dev:     at Socket.emit (node:events:519:28)
+landing-page:dev:     at addChunk (node:internal/streams/readable:561:12)
+landing-page:dev:     at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+landing-page:dev:     at Readable.push (node:internal/streams/readable:392:5)
+landing-page:dev:     at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+landing-page:dev:     at Pipe.callbackTrampoline (node:internal/async_hooks:130:17)
+landing-page:dev: [2m4:10:05 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\TypebotLogo.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m4:10:05 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/TypebotLogo.tsx[22m
+landing-page:dev: Generated route tree in 39ms
+landing-page:dev: [2m4:11:44 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\__root.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m4:11:44 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/__root.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: Generated route tree in 50ms
+landing-page:dev: [2m4:11:51 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\index.tsx, /src/assets/globals.css?direct, /src/routes/index.tsx?tsr-split=component[22m
+landing-page:dev: [2m4:11:51 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: Generated route tree in 139ms
+landing-page:dev: [2m4:11:58 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\pricing.tsx, /src/assets/globals.css?direct, /src/routes/_layout/pricing.tsx?tsr-split=component[22m
+landing-page:dev: [2m4:11:58 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/_layout/pricing.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/_layout/pricing.tsx
+landing-page:dev: Generated route tree in 164ms
+landing-page:dev: [2m4:12:05 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\templates\index.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m4:12:05 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/_layout/templates/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/_layout/templates/index.tsx
+landing-page:dev: Generated route tree in 53ms
+landing-page:dev: [2m4:12:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\oss-friends.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m4:12:15 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/_layout/oss-friends.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/_layout/oss-friends.tsx
+landing-page:dev: Generated route tree in 34ms
+landing-page:dev: [2m4:12:18 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\blog\index.tsx, /src/assets/globals.css?direct, /src/routes/_layout/blog/index.tsx?tsr-split=component[22m
+landing-page:dev: [2m4:12:18 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/_layout/blog/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/_layout/blog/index.tsx
+landing-page:dev: Generated route tree in 87ms
+landing-page:dev: [2m4:12:20 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\about.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m4:12:20 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/_layout/about.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/_layout/about.tsx
+landing-page:dev: Generated route tree in 52ms
+landing-page:dev: [2m4:12:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\templates\$slug.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m4:12:22 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/_layout/templates/$slug.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/_layout/templates/$slug.tsx
+landing-page:dev: Generated route tree in 28ms
+landing-page:dev: [2m4:12:24 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\routes\_layout\$slug.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m4:12:24 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/_layout/$slug.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/_layout/$slug.tsx
