@@ -221,7 +221,7 @@ export const Cta = () => (
     </p>
     <div className="w-full md:w-auto flex flex-col md:flex-row gap-4">
       <CtaButtonLink size="lg" href={registerUrl}>
-        Get started free
+        Start Your Free Trial
       </CtaButtonLink>
     </div>
   </div>

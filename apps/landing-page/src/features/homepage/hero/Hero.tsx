@@ -20,21 +20,19 @@ export const Hero = () => (
     <div className="flex flex-col items-center px-2 gap-10 pb-44 md:sticky md:top-[calc(100vh/2-var(--hero-text-height)/2)] shrink-0 pt-32 md:pt-0">
       <h1 className="text-center uppercase font-bold text-balance">
         <span className="animate-in fade-in slide-in-from-bottom-10 blur-in-sm inline-block fill-mode-both duration-800 delay-700">
-          Hack the bot game:
+          AUTOMATE YOUR SALES ON
         </span>
         <br />
         <span className="animate-in fade-in slide-in-from-bottom-10 blur-in-sm inline-block fill-mode-both delay-1900 duration-300">
-          Build faster,{" "}
+          WHATSAPP WITHOUT WRITING{" "}
         </span>
         <br />
         <span className="animate-in fade-in slide-in-from-bottom-10 blur-in-sm inline-block fill-mode-both delay-2500 duration-300">
-          Chat smarter
+          A SINGLE LINE OF CODE.
         </span>
       </h1>
       <p className="text-center text-foreground/60 font-normal text-balance md:text-xl max-w-3xl animate-in fade-in slide-in-from-bottom-10 blur-in-sm fill-mode-both delay-3000 duration-600">
-        Typebot is a no-code platform that enables you to effortlessly create
-        and integrate advanced chatbots into websites and chat platforms like
-        WhatsApp.
+        MunafaFlow is India’s easiest drag-and-drop commerce builder. Automatically capture leads, book appointments, and collect UPI payments natively inside WhatsApp.
       </p>
 
       <CtaButtonLink

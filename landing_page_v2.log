@@ -178,3 +178,104 @@ landing-page:dev: [vite] program reload
 landing-page:dev: [2m5:53:26 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m
 landing-page:dev: [2m5:53:28 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/@fs/C:/Users/anish/OneDrive/Desktop/New folder/typebot.io/packages/embeds/react/dist/index.js[22m Could not Fast Refresh ("close" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
 landing-page:dev: [2m5:53:28 am[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\CookieConsentBot.tsx, /src/assets/globals.css?direct, /@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx[22m
+landing-page:dev: [2m2:05:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:05:19 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:05:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:05:19 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:06:03 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:06:03 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:06:14 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:06:14 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:06:43 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:06:43 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:06:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:06:50 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:06:56 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:06:56 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:07:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:07:09 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:07:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:07:19 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:08:28 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:08:28 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:11:56 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:11:56 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:12:10 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:12:10 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:12:18 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:12:18 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:15:47 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:15:47 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:16:07 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:16:07 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:16:21 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:16:21 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:16:40 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:16:40 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:17:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:17:15 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:19:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mΓ£¿ new dependencies optimized: [33m@base-ui-components/react/dialog, @prisma/client, @base-ui-components/react/popover[32m[39m
+landing-page:dev: [2m2:19:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mΓ£¿ optimized dependencies changed. reloading[39m
+landing-page:dev: [2m2:22:20 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:22:20 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:22:26 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:22:26 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:22:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:22:50 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:22:54 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:22:54 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:23:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:23:22 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:23:36 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:23:36 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:23:57 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:23:57 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:24:16 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:24:16 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:24:31 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:24:31 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:25:03 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:25:03 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:26:23 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:26:23 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:26:47 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\hero\Hero.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:26:47 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx
+landing-page:dev: [2m2:30:44 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:30:44 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:30:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\components\Header.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:30:50 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/components/Header.tsx[22m
+landing-page:dev: [vite] program reload
+landing-page:dev: [2m2:31:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\anish\OneDrive\Desktop\New folder\typebot.io\apps\landing-page\src\features\homepage\use-cases\UseCases.tsx, /src/assets/globals.css?direct[22m
+landing-page:dev: [2m2:31:11 pm[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mhmr update [39m[2m/src/routes/index.tsx[22m
+landing-page:dev: [vite] hot updated: /src/routes/index.tsx

@@ -207,23 +207,23 @@ const Mobile = React.forwardRef<HTMLElement, Props>(function Mobile(
 
 const desktopLinks = [
   {
-    label: "Blog",
+    label: "Features",
     to: "/blog",
   },
-  {
-    label: "Community",
-    href: discordUrl,
-  },
+  // {
+  //   label: "Community",
+  //   href: discordUrl,
+  // },
   {
     label: "Pricing",
     to: "/pricing",
   },
   {
-    label: "Documentation",
+    label: "Templates",
     href: docsUrl,
   },
   {
-    label: "GitHub",
+    label: "Blog",
     href: githubRepoUrl,
   },
 ] as const;
@@ -305,7 +305,7 @@ const Desktop = React.forwardRef<
           </CtaButtonLink>
         ) : (
           <CtaButtonLink size="sm" href={registerUrl}>
-            Get started free
+            Start Your Free Trial
           </CtaButtonLink>
         )}
       </nav>
